@@ -19,18 +19,35 @@
 # ----------- 1000100(0^0)________
 # so answer is : 10001000
 
+class Bin_to_Grey:
+    def __init__(self,n):
+        self.n=n
+    def Method_1(self):
+        binary=bin(self.n)[2:]
+        result=""
+        result+=binary[0]
+        for i in range(1,len(binary)):
+            result+=str(int(binary[i])^int(binary[i-1]))
+        return int(result,2)
 
-def Method_1(n):
-    binary=bin(n)[2:]
-    result=""
-    result+=binary[0]
-    for i in range(1,len(binary)):
-        result+=str(int(binary[i])^int(binary[i-1]))
-    return int(result,2)
+    def Method_2(self):
+        return self.n^(self.n>>1)
 
-def Method_2(n):
-    return n^(n>>1)
+class Grey_to_Bin:
+    def __init__(self,n):
+        self.n=n
+    def Method_1(self):
+        inv = 0
+        while(self.n):
+            inv = inv ^ self.n
+            self.n = self.n >> 1
+        return inv
+
 
 if __name__ == '__main__':
-    print(Method_1(7))
-    print(Method_2(7))
+    obj=Bin_to_Grey(7)
+    print(obj.Method_1())
+    print(obj.Method_2())
+
+    ob1=Grey_to_Bin(7)
+    print(ob1.Method_1())
