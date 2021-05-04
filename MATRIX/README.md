@@ -1,6 +1,6 @@
 <h1 align="center">MATRIX</h1>
 <p align="center">
-  <img width="200" src="logo.png">
+  <img height="300" src="logo.png">
 </p>
 
 ----
