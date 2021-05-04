@@ -1,5 +1,5 @@
 # DSA
 ----
 <p align="center">
-  <img width="300" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-7.png">
+  <img width="200" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-7.png">
 </p>
