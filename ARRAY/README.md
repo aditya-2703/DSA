@@ -1,4 +1,7 @@
-# ARRAY
+<h1 align="center">ARRAYS</h1>
+<p align="center">
+  <img width="200" src="logo.jpg">
+</p>
 
 ----
 
