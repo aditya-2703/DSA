@@ -1,5 +1,5 @@
 <h1 align="center">QUEUE</h1> 
-  <p align="center"> <img width="200" height="300" src="logo_q.png"><img width="200" height="300" src="logo_p.png"><img width="200" height="300" src="logo_c.jpg"> </p>
+  <p align="center"> <img width="200" height="200" src="logo_q.png"><img width="200" height="200" src="logo_p.png"><img width="200" height="200" src="logo_c.jpg"> </p>
 ----
 
 | Problems                  | Solution                         |
