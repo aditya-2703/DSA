@@ -8,7 +8,7 @@
 ----
 # Topics 
 ----
-*[Maths](https://github.com/aditya-2703/DSA/tree/main/MATHS)
+* [Maths](https://github.com/aditya-2703/DSA/tree/main/MATHS)
 
 [Arrays](https://github.com/aditya-2703/DSA/tree/main/ARRAY)
 
