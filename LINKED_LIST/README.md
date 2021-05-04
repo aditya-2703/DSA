@@ -1,4 +1,7 @@
-# LINKED LIST 
+<h1 align="center" >LINKED LIST</h1>
+<p align="center">
+  <img width="200" src="logo.png">
+</p>
 
 ----
 
