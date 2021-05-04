@@ -4,7 +4,7 @@
 </p>
 
 ----
-<p align="center">
+
 | Problems              | Solution                         |
 | :-------------:       |:-------------:                   |
 | ABSOLUTE VALUE        | [ABSOLUTE_VAL.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/ABSOLUTE_VAL.PY)              |
@@ -19,4 +19,4 @@
 | FIND LCM              | [LCM.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/LCM.PY)                       |    
 | MOD MUL INVERSE       | [MOD_MULTIPLICATIVE_INVERSE.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/MOD_MULTIPLICATIVE_INVERSE.PY)|  
 | PRIME NUMBER          | [PRIME.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/PRIME.PY)                     |    
-</p>
+
