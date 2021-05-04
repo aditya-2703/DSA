@@ -6,7 +6,7 @@
 ----
 
 | Problems              | Solution                         |
-| :-------------:       |:-------------:                   |
+| :-------------        |-------------:                   |
 | ABSOLUTE VALUE        | [ABSOLUTE_VAL.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/ABSOLUTE_VAL.PY)              |
 | ADDITION UNDER MODULE | [ADDITION_UNDER_MOD.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/ADDITION_UNDER_MOD.PY)        |   
 | CELCUISE TO FERENHITE | [CELCUISE_TO_FERENHITE.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/CELCUISE_TO_FERENHITE.PY)     | 
