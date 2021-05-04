@@ -1,6 +1,6 @@
 <h1 align="center" >LINKED LIST</h1>
 <p align="center">
-  <img width="400" src="logo..png">
+  <img width="600" src="logo..png">
 </p>
 
 ----
