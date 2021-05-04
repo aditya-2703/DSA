@@ -1,5 +1,4 @@
-# STACK 
-
+<h1 align="center">STRING</h1> <p align="center"> <img width="300" src="logo.jpg"> </p>
 ----
 
 | Problems                  | Solution                         |
