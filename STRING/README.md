@@ -1,5 +1,7 @@
-# STRING 
-
+<h1 align="center">STRING</h1>
+<p align="center">
+  <img width="200" src="logo.jpg">
+</p>
 ----
 
 | Problems                  | Solution                         |
