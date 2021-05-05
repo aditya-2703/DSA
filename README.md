@@ -104,8 +104,7 @@
 | SUM LARGE INT          | [SUM_LARGE_INT.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/SUM_LARGE_INT.PY)                   |  
 | VALIDATE IP    | [VALIDATE_IP.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/VALIDATE_IP.PY)                       |    
 ----
-# STACK 
-
+# STACK
 ----
 
 | Problems                  | Solution                         |
@@ -119,6 +118,7 @@
 | REVERSE A STACK USING RECURSION     | [REVERSE_STACK.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/REVERSE_STACK.PY)                 |                |   
 | EVALUATION OF POSTFIX EXPRESSION               | [Evaluation_of_Postfix_Expression.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Evaluation_of_Postfix_Expression.py)                   |  
 | INFIX TO POSTFIX     | [INFIX_TO_POSTFIX.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/INFIX_TO_POSTFIX.PY)                       |    
+| REMOVE OUTERMOST PARANTHESIS     | [Remove_Outermost_Paranthesis.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/Remove_Outermost_Parentheses.py)                       |    
 
 ----
 # QUEUE 
