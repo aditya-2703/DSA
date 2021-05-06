@@ -1,6 +1,6 @@
 <h1 align="center">BIT MANIPULATION </h1>
 <p align="center">
-  <img hieght="300" src="logo.png">
+  <img hieght="250" src="logo.png">
 </p>
 ----
 
