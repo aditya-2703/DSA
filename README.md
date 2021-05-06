@@ -222,3 +222,20 @@
 | MINIMUM SWAP | [MIN_SWAP.py](https://github.com/aditya-2703/DSA/blob/main/sorting/MIN_SWAP.PY)                 |   
 | SORT 0 1 2 IN ARRAY    | [SORT_0_1_2.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/SORT_0_1_2.PY)                   |  
 | UNION OR TWO SORTED ARRAY| [UNION_2_SORTED_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/UNION_2_SORTED_ARRAY.PY)                       |  
+
+----
+# SEARCHING
+
+----
+
+| Problems                  | Solution                         |
+| -------------             |:-------------:                   |
+| LINEAR SEARCH     | [linear_search.PY](https://github.com/aditya-2703/DSA/blob/main/searching/linear_search.py)              |
+| BINARY SEARCH      | [binary_search.PY](https://github.com/aditya-2703/DSA/blob/main/searching/binary_search.py)        |   
+| TERNARY SEARCH    | [TERNARY_SEARCH.PY](https://github.com/aditya-2703/DSA/blob/main/searching/TERNARY_SEARCH.PY)     | 
+| SEARCH SORTED ROTATED ARRAY| [SEARCH_SORTED_ROTATE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/searching/SEARCH_SORTED_ROTATE_ARRAY.PY)       |  
+| SEARCH MINIMUM PLATFORMS   | [SEARCH_Minimum_Platforms.PY](https://github.com/aditya-2703/DSA/blob/main/searching/SEARCH_Minimum_Platforms.py)        |  
+| SEARCH PEAK ELEMENT    | [PEAK_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/searching/PEAK_ELEMENT.PY)        |  
+| SEARCH MISSING REPEATING VALUE     | [FIND_MISSING_REPEATING_NO.PY](https://github.com/aditya-2703/DSA/blob/main/searching/FIND_MISSING_REPEATING_NO.PY)                 | 
+| SEARCH MEDIAN OF TWO SORTED ARRAY| [MEDIAN_TWO_SORTED_ARR.py](https://github.com/aditya-2703/DSA/blob/main/searching/MEDIAN_TWO_SORTED_ARR.PY)                 |   
+
