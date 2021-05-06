@@ -249,3 +249,18 @@
 | SECOND WAY TREE CREATION| [SECOND_WAY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/SECOND_WAY_TREE_CREATION.PY)        |   
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
+
+----
+# GRAPH
+
+----
+
+| Problems                  | Solution                         |
+| -------------             |:-------------:                   |
+| BFS     | [BFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/BSF.PY)              |
+| DFS          | [DFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DFS.PY)        |   
+| DIJSTRA'S ALGORITHM   | [DIJSKRA'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)     | 
+| KRUSKAL'S ALGORITHM| [KRUSKAL'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)       |  
+| PRIM'S ALGORITHM| [PRIM'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)        |  
+| FLOYD WARSHAL    | [floyd_warshal.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)        |  
+
