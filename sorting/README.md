@@ -1,6 +1,6 @@
 <h1 align="center">SORTING</h1>
 <p align="center">
-  <img width="300" src="logo.jpg">
+  <img width="300" src="logo.png">
 </p>
 ----
 
