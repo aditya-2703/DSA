@@ -1,7 +1,8 @@
 <h1 align="center">GREEDY</h1>
 <p align="center">
-  <img width="300" src="logo.PNG">
+  <img height="250" src="logo.PNG">
 </p>
+
 ----
 
 | Problems                  | Solution                         |
