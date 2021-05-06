@@ -310,4 +310,14 @@
 | STAIR CASE PROBLEM | [PARTITION_SET_K_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/PARTITION_SET_K_SUM.py)                 | 
 | EDIT DISTANCE BETWEEN TWO STRINGS| [STAIR_RECUR.py](https://github.com/aditya-2703/DSA/blob/main/greedy/STAIR_RECUR.py)                 |   
 
+----
+# BACKTRACKING
+----
+
+| Problems                  | Solution                         |
+| -------------             |:-------------:                   |
+| N QUEEN PROBLEM     | [N_QUEEN_DP.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/N_QUEEN_DP.PY)              |
+| SUDUKO SOLVER       | [SUDOKO.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUDOKO.PY)        |   
+| TRAVELLING SALESMAN PROBLEM    | [Travelling_salesman_problem.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)     | 
+
 
