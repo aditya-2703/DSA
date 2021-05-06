@@ -1,6 +1,6 @@
 <h1 align="center">TREE</h1>
 <p align="center">
-  <img width="300" src="logo.jpg">
+  <img height="200" src="logo.jpg">
 </p>
 ----
 
