@@ -22,7 +22,7 @@
 
 * [Linked List](https://github.com/aditya-2703/DSA/tree/main/LINKED_LIST)
 
-* [Recursion]()
+* [Recursion](https://github.com/aditya-2703/DSA/tree/main/RECURSION)
 
 * [Hashing](https://github.com/aditya-2703/DSA/tree/main/HASHMAP)
 
