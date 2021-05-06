@@ -1,6 +1,6 @@
 <h1 align="center">BACKTRACKING</h1>
 <p align="center">
-  <img height="200" src="logo.png">
+  <img height="250" src="logo.png">
 </p>
 
 ----
