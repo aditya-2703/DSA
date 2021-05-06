@@ -1,6 +1,6 @@
 <h1 align="center">DIVIDE AND CONQURE</h1>
 <p align="center">
-  <img hieght="250" src="logo.png">
+  <img hieght="200" src="logo.png">
 </p>
 
 ----
