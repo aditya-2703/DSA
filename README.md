@@ -239,3 +239,13 @@
 | SEARCH MISSING REPEATING VALUE     | [FIND_MISSING_REPEATING_NO.PY](https://github.com/aditya-2703/DSA/blob/main/searching/FIND_MISSING_REPEATING_NO.PY)                 | 
 | SEARCH MEDIAN OF TWO SORTED ARRAY| [MEDIAN_TWO_SORTED_ARR.py](https://github.com/aditya-2703/DSA/blob/main/searching/MEDIAN_TWO_SORTED_ARR.PY)                 |   
 
+----
+# TREE
+
+----
+| Problems                  | Solution                         |
+| -------------             |:-------------:                   |
+| TREE CREATION     | [TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/TREE_CREATION.PY)              |
+| SECOND WAY TREE CREATION| [SECOND_WAY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/SECOND_WAY_TREE_CREATION.PY)        |   
+| BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
+| AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
