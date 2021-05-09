@@ -1,10 +1,3 @@
-print ("Enter the number of queens")
-N = int(input())
-
-#chessboard
-#NxN matrix with all elements 0
-board = [[0]*N for _ in range(N)]
-
 def is_attack(i, j):
     #checking if there is a queen in row or column
     for k in range(0,N):
@@ -37,6 +30,13 @@ def N_queen(n):
 
     return False
 
-N_queen(N)
-for i in board:
-    print (i)
+if __name__ == "__main__":
+    print ("Enter the number of queens")
+    N = int(input())
+
+    #chessboard
+    #NxN matrix with all elements 0
+    board = [[0]*N for _ in range(N)]
+    N_queen(N)
+    for i in board:
+        print (i)
