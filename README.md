@@ -320,7 +320,7 @@
 | SUDUKO SOLVER       | [SUDOKO.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUDOKO.PY)        |   
 | TRAVELLING SALESMAN PROBLEM    | [Travelling_salesman_problem.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)     | 
 
-----
+
 ----
 # DYNAMIC PROGRAMMING
 ----
