@@ -21,3 +21,4 @@
 | TRAPPING RAIN WATER       | [TRAPPING_WATER.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     |    
 | WAVE ARRAY                | [WAVE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                     |    
 | WHO HAS A MAJORITY        | [WHO_HAS_MAJORITY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)                     |    
+| DUPLICATE ZEROS           | [DUPLICATE_ZEROS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)|
