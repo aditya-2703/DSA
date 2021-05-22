@@ -70,7 +70,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | ARRANGE ARRAY IN O(1)     | [ARRANGE_ARRAY_0(1).PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)              |
 | ARRAY N ROTATION          | [ARRAY_N_ROTATION.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRAY_N_ROTATION.PY)        |   
 | FIND EQUILIBRIAM POINT    | [FIND_EQUILIBRIAM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_EQUILIBRIAM.PY)     | 
@@ -85,6 +85,7 @@
 | TRAPPING RAIN WATER       | [TRAPPING_WATER.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     |    
 | WAVE ARRAY                | [WAVE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                     |    
 | WHO HAS A MAJORITY        | [WHO_HAS_MAJORITY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)                     |    
+| DUPLICATE ZEROS           | [DUPLICATE_ZEROS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)|
 
 ----
 # STRING 
