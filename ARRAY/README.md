@@ -6,7 +6,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | ARRANGE ARRAY IN O(1)     | [ARRANGE_ARRAY_0(1).PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)              |
 | ARRAY N ROTATION          | [ARRAY_N_ROTATION.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRAY_N_ROTATION.PY)        |   
 | FIND EQUILIBRIAM POINT    | [FIND_EQUILIBRIAM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_EQUILIBRIAM.PY)     | 
