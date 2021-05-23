@@ -86,6 +86,9 @@
 | WAVE ARRAY                | [WAVE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                     |    
 | WHO HAS A MAJORITY        | [WHO_HAS_MAJORITY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)                     |    
 | DUPLICATE ZEROS           | [DUPLICATE_ZEROS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)|
+| DELETE ITEM FROM ARRAY        | [DELETE_ITEM_FROM_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DELETE_ITEM_FROM.PY)                     |    
+| NO OF GOOD PARIS   | [NO_OF_GOOD_PAIRS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/NO_OF_GOOD_PAIRS.PY)|
+| TWO NUM SUM       | [TWO_NUM_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TWO_NUM_SUM.PY)                     |    
 
 ----
 # STRING 
