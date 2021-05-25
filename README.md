@@ -90,6 +90,7 @@
 | NO OF GOOD PARIS   | [NO_OF_GOOD_PAIRS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/NO_OF_GOOD_PAIRS.PY)|
 | TWO NUM SUM       | [TWO_NUM_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TWO_NUM_SUM.PY)                     |    
 | SMALLEST DIFFERENCE       | [SMALLEST_DIFFERENCE.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SMALLEST_DIFFERENCE.PY)                     |    
+| MEJORITY ELEMENT N/2 PROBLEM    | [MAJORITY_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/MAJORITY_ELEMENT.PY)                     |    
 
 
 ----
