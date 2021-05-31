@@ -28,7 +28,7 @@
 #   3   
 
 # in this whole odd even area 
-# 1 -> odd(1) +  odd(1)  + odd(1) 3 1 comes 3 times total=1*3=1  
+# 1 -> odd(1) +  odd(1)  + odd(1) 3 1 comes 3 times total=1*3=3  
 # 4 -> odd(1) +  odd(2)  + odd(1) 5 4 comes 4 times total=4*4=16 
 # 2 -> odd(1) +  odd(3)  + odd(1) 5 2 comes 5 times total=2*5=10   
 # 5 -> odd(1) +  odd(2)  + odd(1) 5 5 comes 4 times total=5*4=20 
