@@ -6,7 +6,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | BASIC OPERAIONS     | [BASIC.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BASICS.PY)              |
 | BIT DIFFERENCE PROBLEM       | [BIT_DIFFERENCE.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BIT_DIFFERENCE.PY)        |   
 | BINARY TO GREY CODE EQUIVALENCE | [Binary_To_Gray_Code_equivalent.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Binary_To_Gray_Code_equivalent.py)     | 
