@@ -17,5 +17,5 @@
 | DUPLICATE PARANTHESIS     | [DUPLICATE_PARA.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/DUPLICATE_PARA.PY)                       |    
 | EASY STRING     | [EASY_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/EASY_STRING.PY)                       | 
 | MIN STACK O(N) SPACE    | [MIN_STACK_1.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_1.PY)                       |    
-| MIN STACK O(1) SPACE    | [MIN_STACK_2.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_2.py)                       | 
+| MIN STACK O(1) SPACE    | [MIN_STACK_2.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_2.PY)                       | 
    
