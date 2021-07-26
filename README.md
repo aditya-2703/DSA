@@ -4,7 +4,7 @@
 </p>
 
 -----
--->This repository consists Data-structures and Algorithms problems in python.
+This repository consists Data-structures and Algorithms problems in python.
 ----
 # Topics 
 ----
