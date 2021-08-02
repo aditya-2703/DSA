@@ -10,3 +10,4 @@
 | CIRCULAR QUEUE| [CIRCULAR_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/CIRCULAR_QUEUE.PY)     | 
 | PRIORITY QUEUE| [PRIORITY_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/PRIORITY_QUEUE.py)       |  
 | DOUBLE ENDED QUEUE | [DOUBLE_ENDED_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/DOUBLE_ENDED_QUEUE.PY)
+| SLIDING WINDOW MAXIMUM | [SLIDING_WINDOW_MAX.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/SLIDING_WINDOW_MAX.PY)
