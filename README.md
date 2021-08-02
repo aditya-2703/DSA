@@ -133,6 +133,8 @@ This repository consists Data-structures and Algorithms problems in python.
 | EASY STRING     | [EASY_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/EASY_STRING.PY)                       | 
 | MIN STACK O(N) SPACE    | [MIN_STACK_1.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_1.PY)                       |    
 | MIN STACK O(1) SPACE    | [MIN_STACK_2.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_2.PY)                       | 
+| SLIDING WINDOW MAXIMUM    | [SLIDING_WINDOW_MAX.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/SLIDING_WINDOW_MAX.PY)                       | 
+| STOCK SPAN PROBLEM    | [STOCK_SPAN.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/STOCK_SPAN.PY)                       | 
    
 
 
