@@ -20,7 +20,7 @@ def N_queen(n):
             '''checking if we can place a queen here or not
             queen will not be placed if the place is being attacked
             or already occupied'''
-            if (not(is_attack(i,j))) and (board[i][j]!=1):
+            if (not(is_attack(i,j))):
                 board[i][j] = 1
                 #recursion
                 #wether we can put the next queen with this arrangment or not
