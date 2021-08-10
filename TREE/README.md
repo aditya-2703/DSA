@@ -3,6 +3,8 @@
   <img height="230" src="logo.jpg">
 </p>
 
+----
+
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
 | TREE CREATION     | [TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/TREE_CREATION.PY)              |
