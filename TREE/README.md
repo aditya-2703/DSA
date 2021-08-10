@@ -2,7 +2,6 @@
 <p align="center">
   <img height="230" src="logo.jpg">
 </p>
-----
 
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
