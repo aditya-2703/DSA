@@ -303,8 +303,9 @@ This repository consists Data-structures and Algorithms problems in python.
 | DFS          | [DFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DFS.PY)        |   
 | DIJSTRA'S ALGORITHM   | [DIJSKRA'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)     | 
 | KRUSKAL'S ALGORITHM| [KRUSKAL'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)       |  
-| PRIM'S ALGORITHM| [PRIM'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)        |  
-| FLOYD WARSHAL    | [floyd_warshal.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)     |  
+| PRIM'S ALGORITHM| [PRIM'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY) |
+| FLOYD WARSHAL   | [floyd_warshal.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)     |  
+
 ----
 # DIVIDE AND CONQURE
 
@@ -392,7 +393,7 @@ This repository consists Data-structures and Algorithms problems in python.
 | TOTAL COUNT BINARY SEARCH TREE | [TOTAL_COUNT_BST.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/TOTAL_COUNT_BST.py)        |  
 | COIN CHANGE PROBLEM WITH DP APPROACH| [choinchange.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/coinchange.py)                 | 
 | EGG DROPPING WITH DP APPROACH| [egg_droping.py](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping.py)                 |   
-| EGG DROPPING WITH DP APPROACH WITH SECOND APPROACH        | [egg_dropping_diff.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping_diff.py)                   |  
+| EGG DROPPING WITH DP APPROACH WITH SECOND APPROACH | [egg_dropping_diff.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping_diff.py)                   |  
 | FIBONACCI SEQUENCE    | [fibonacci.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/fibonacci.py)                       |    
 | FIND NEXT PERMUTATION        | [next_permutation.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/next_permutaion.py)                   |  
 | PASCAL TRIANGLE    | [pascal.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/pascal.py)                       |    
