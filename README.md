@@ -380,7 +380,7 @@ This repository consists Data-structures and Algorithms problems in python.
 | ASSEMBLY LINE SHEDULAR          | [ASSEMBLY_LINE_SCHEDULAR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ASSEMBLY_LINE_SCHEDULAR.PY)        |   
 | BIONOMIAL    | [BIONOMIAL.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/BIONOMIAL.PY)     | 
 | DECODE STRING WAYS DP APPROACH    | [DECODE_STRINGS_WAYS_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_STRINGS_WAYS._DP.py)       |  
-| EDIT DISTANCE BETWEEN TWO STRING DP APPROACH[EDIT_DISTANCE_BET2STRING_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/EDIT_DISTANCE_BET2STRING_DP.py)        |  
+| EDIT DISTANCE BETWEEN TWO STRING DP APPROACH | [EDIT_DISTANCE_BET2STRING_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/EDIT_DISTANCE_BET2STRING_DP.py)        |  
 | KADANE 1D ARRAY | [KADANE'S 1D_N.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N.py)        |  
 | KADANE 1D ARRAY   | [KADANE'S 1D_N2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N2.py)                 | 
 | KADANE 1D ARRAY| [KADANE'S 1D_N3.py](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N3.py)                 |   
