@@ -291,9 +291,11 @@ This repository consists Data-structures and Algorithms problems in python.
 | LEVELWISE GENERIC TREE TRAVERSAL | [LEVEL_GENERIC_TREE_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEVEL_GENERIC_TREE_TRAVERSAL.PY)        |   
 | LEVEL LINEWISE GENERIC TREE TRAVERSAL | [LEVEL_LINEWISE_TREE_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEVEL_LINEWISE_TREE_TRAVERSAL.PY)        |   
 | ZIG ZAG LINEWISE GENERIC TREE TRAVERSAL | [ZIG_ZAG_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/ZIG_ZAG_TRAVERSAL.PY)        |   
+| MIRROR OF GENERIC TREE | [MIRROR_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MIRROR_GENERIC_TREE.PY)        |   
 | MAXIMUM NODE FROM TREE | [MAX_FROM_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_FROM_TREE.PY)        |   
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
+
 
 ----
 # GRAPH
