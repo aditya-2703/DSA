@@ -67,7 +67,7 @@ def build_tree(arr):
                 root = TreeNode(i)
                 stack.append(root)
     return root
-def get_inorder(tree):
+def get_level_order(tree):
     queue=[]
     queue.append(tree)
     while queue:
@@ -81,5 +81,5 @@ if __name__ == '__main__':
     arr2 = [10,20,-1,30,50,60,-1,-1,40]
     tree = build_tree(arr2)
     # tree.print_tree()
-    get_inorder(tree)
+    get_level_order(tree)
     
