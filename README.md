@@ -5,7 +5,6 @@
 
 This repository consists Data-structures and Algorithms problems in python.
 
-----
 # Topics 
 ----
 * [Maths](https://github.com/aditya-2703/DSA/tree/main/MATHS)
