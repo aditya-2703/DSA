@@ -16,5 +16,9 @@
 | ZIG ZAG LINEWISE GENERIC TREE TRAVERSAL | [ZIG_ZAG_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/ZIG_ZAG_TRAVERSAL.PY)        |   
 | MIRROR OF GENERIC TREE | [MIRROR_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MIRROR_GENERIC_TREE.PY)        |   
 | MAXIMUM NODE FROM TREE | [MAX_FROM_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_FROM_TREE.PY)        |   
+| LINEARIZE GENERIC TREE | [LINEARIZE_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LINEARIZE_GENERIC_TREE.PY)        |   
+| FIND ELEMENT IN GENERIC TREE | [FIND_ELEMENT_IN_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/FIND_ELEMENT_IN_GENERIC_TREE.PY)        |   
+| REMOVE LEAF NODES IN GENERIC TREE | [REM_LEAF_IN_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/REM_LEAF_IN_GENERIC_TREE.PY)        |   
+| NODE TO ROOT PATH GENERIC TREE | [NODE_TO_ROOT_PATH_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH_GENERIC_TREE.PY)        |   
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
