@@ -284,6 +284,7 @@
 
 ----
 
+
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
 | TREE CREATION     | [TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/TREE_CREATION.PY)              |
@@ -299,6 +300,8 @@
 | FIND ELEMENT IN GENERIC TREE | [FIND_ELEMENT_IN_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/FIND_ELEMENT_IN_GENERIC_TREE.PY)        |   
 | REMOVE LEAF NODES IN GENERIC TREE | [REM_LEAF_IN_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/REM_LEAF_IN_GENERIC_TREE.PY)        |   
 | NODE TO ROOT PATH GENERIC TREE | [NODE_TO_ROOT_PATH_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH_GENERIC_TREE.PY)        |   
+| LOWEST COMMON ANCESTOR IN GENERIC TREE| [LOWEST_COMMON_ANCESTOR_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LOWEST_COMMON_ANCESTOR_GENERIC.PY)        |   
+| DIFFERENCE BETWEEN TWO NODE IN GENERIC TREE | [DIFFERENCE_BET_TWO_NODE_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/DIFFERENCE_BET_TWO_NODE_GENERIC.PY)        | 
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
 
