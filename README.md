@@ -115,6 +115,7 @@
 | REVERSE WORD | [REVERSE_WORD.py](https://github.com/aditya-2703/DSA/blob/main/STRING/REVERSE_WORD.PY)                 |   
 | SUM LARGE INT          | [SUM_LARGE_INT.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/SUM_LARGE_INT.PY)                   |  
 | VALIDATE IP    | [VALIDATE_IP.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/VALIDATE_IP.PY)                       |    
+
 ----
 # STACK
 ----
@@ -302,7 +303,7 @@
 | NODE TO ROOT PATH GENERIC TREE | [NODE_TO_ROOT_PATH_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH_GENERIC_TREE.PY)        |   
 | LOWEST COMMON ANCESTOR IN GENERIC TREE| [LOWEST_COMMON_ANCESTOR_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LOWEST_COMMON_ANCESTOR_GENERIC.PY)        |   
 | DIFFERENCE BETWEEN TWO NODE IN GENERIC TREE | [DIFFERENCE_BET_TWO_NODE_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/DIFFERENCE_BET_TWO_NODE_GENERIC.PY)        | 
-| BINARY TREE CREATION     | [BINARY_TREE.CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.CREATION.py)     | 
+| BINARY TREE CREATION     | [BINARY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.py)     | 
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
 
