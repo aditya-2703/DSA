@@ -24,4 +24,10 @@
 | DIFFERENCE BETWEEN TWO NODE IN GENERIC TREE | [DIFFERENCE_BET_TWO_NODE_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/DIFFERENCE_BET_TWO_NODE_GENERIC.PY)        | 
 | BINARY TREE CREATION     | [BINARY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.py)     | 
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
+| BRANCH SUM BINARY TREE             | [BRANCH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BRANCH_SUM.PY)     | 
+| LEFT CLONE TREE BINARY TREE             | [LEFT_CLONE_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEFT_CLONE_TREE.PY)     | 
+| NODE TO ROOT PATH BINARY TREE             | [NODE_TO_ROOT_PATH.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH.PY)     | 
+| PATH SUM BINARY TREE             | [PATH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/PATH_SUM.PY)     | 
+| PRINT K LEVEL DOWN BINARY TREE             | [PRINT_K_LEVEL_DOWN.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/PRINT_K_LEVEL_DOWN.PY)     | 
+| REMOVE SINGLE CHILD BINARY TREE             | [REMOVE_SINGLE_CHILD.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/REMOVE_SINGLE_CHILD.PY)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
