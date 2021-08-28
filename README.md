@@ -302,6 +302,14 @@
 | NODE TO ROOT PATH GENERIC TREE | [NODE_TO_ROOT_PATH_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH_GENERIC_TREE.PY)        |   
 | LOWEST COMMON ANCESTOR IN GENERIC TREE| [LOWEST_COMMON_ANCESTOR_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LOWEST_COMMON_ANCESTOR_GENERIC.PY)        |   
 | DIFFERENCE BETWEEN TWO NODE IN GENERIC TREE | [DIFFERENCE_BET_TWO_NODE_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/DIFFERENCE_BET_TWO_NODE_GENERIC.PY)        | 
+| CEIL AND FLOOR OF GIVEN VALUE IN GENERIC TREE| [CEIL_AND_FLOOR.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/CEIL_AND_FLOOR.PY)        | 
+| GET DIAMETER IN GENERIC TREE | [GET_DIAMETER_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/GET_DIAMETER_TREE.PY)        | 
+| GET SUCCESSOR-PREDESESSOR IN GENERIC TREE | [GET_SUCCESSOR_PREDESESSOR.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/GET_SUCCESSOR_PREDESESSOR.PY)        | 
+| IS SAME SHAPE WITH MIRROR TREE IN GENERIC TREE | [IS_SAME_SHAPE_WITH_MIRROR.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SAME_SHAPE_WITH_MIRROR.PY)        | 
+| IS SAME IN SHAPE IN GENERIC TREE | [IS_SAME_SHAPE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SAME_SHAPE.PY)        | 
+| IS SYMETRIC IN GENERIC TREE | [IS_SYMETRIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SYMETRIC_TREE.PY)        | 
+| K TH LARGEST ELEMENT IN GENERIC TREE | [K_TH_LARGEST_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/K_TH_LARGEST_ELEMENT.PY)        | 
+| MAX SUBTREE SUM IN GENERIC TREE | [MAX_SUBTREE_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_SUBTREE_SUM.PY)        | 
 | BINARY TREE CREATION     | [BINARY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.py)     | 
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | BRANCH SUM BINARY TREE             | [BRANCH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BRANCH_SUM.PY)     | 
@@ -311,6 +319,7 @@
 | PRINT K LEVEL DOWN BINARY TREE             | [PRINT_K_LEVEL_DOWN.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/PRINT_K_LEVEL_DOWN.PY)     | 
 | REMOVE SINGLE CHILD BINARY TREE             | [REMOVE_SINGLE_CHILD.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/REMOVE_SINGLE_CHILD.PY)     | 
 | AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
+
 
 ----
 # GRAPH
