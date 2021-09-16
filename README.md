@@ -11,7 +11,7 @@
 # Topics 
 ----
 
-* [PATTERNS](https://github.com/aditya-2703/DSA/tree/main/PATTERN)
+* [Pattern](https://github.com/aditya-2703/DSA/tree/main/PATTERN)
 
 * [Maths](https://github.com/aditya-2703/DSA/tree/main/MATHS)
 
