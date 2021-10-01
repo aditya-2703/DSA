@@ -1,7 +1,7 @@
 # Pattern
 
 <p align="center">
-  <img src="https://miro.medium.com/max/2000/1*8yRJzazvRJcAet3FW0HaOQ.png">
+  <img width=200 src="https://miro.medium.com/max/2000/1*8yRJzazvRJcAet3FW0HaOQ.png">
 </p>
 
 
