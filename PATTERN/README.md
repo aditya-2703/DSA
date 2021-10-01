@@ -1,12 +1,12 @@
 # Pattern
 
 <p align="center">
-  <img width=200 src="https://miro.medium.com/max/2000/1*8yRJzazvRJcAet3FW0HaOQ.png">
+  <img width=400 src="https://miro.medium.com/max/2000/1*8yRJzazvRJcAet3FW0HaOQ.png">
 </p>
 
 
 | Qn        | Solution           
-| :------------- |-------------:| 
+| :-------------: |:-------------:| 
 | 1.PY |[1.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/1.PY)      | 
 | 2.PY |[2.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/2.PY)       | 
 | 3.PY |[3.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/3.PY)       | 
