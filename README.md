@@ -235,6 +235,7 @@
 
 ----
 
+
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
 | FIND  STRING LENGTH    | [STR_LEN.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_LEN.PY)                 | 
@@ -247,14 +248,19 @@
 | JOSEPHUS PROBLEM | [JOSEPHUS_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/JOSEPHUS_PROBLEM.PY)     | 
 | CHECKING PALINDROME STRING | [PALINDROME_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PALINDROME_STRING.PY)       |  
 | PRINT ALL PERMUTATIONS OF STRING     | [PRINT_ALL_PERMUTATION_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_ALL_PERMUTATION_GIVEN_STRING.PY)  |  
-| PRINT SUBSEQUENCES OF STRING    | [PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY)        |  
+| PRINT SUBSEQUENCES OF STRING    | [PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY)        | 
 | REVERSE A STRING USING RECURSION    | [REVERSE_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/REVERSE_STRING.PY)        |  
 | SUBSETS OF TARGETSUM    | [SUBSETS_OF_TARGETSUM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUBSETS_OF_TARGETSUM.PY)        |  
 | ALL POSSIBLE STAIR CASE    | [STAIR_CASE.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STAIR_CASE.PY)        |  
+| SPECIAL FIBONACCI    | [SPECIAL_FIBO.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SPECIAL_FIBO.PY)        |  
+| FIND FIRST UPPERCASE    | [FIND_FIRST_UPPER.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/FIND_FIRST_UPPER.PY)        |  
+| GET MAXIMUM AND MINIMUM    | [GET_MAX_MIN.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/GET_MAX_MIN.PY)        |  
+| SUM TRIANGULAR ARRAY    | [SUM_TRIA_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_TRIA_ARR.PY)        |  
+| COMBINATION SUM    | [COMBINATIONS_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/COMBINATIONS_SUM.PY)        |  
+| WORD SEARCH    | [WORD_SEARCH.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/WORD_SEARCH.PY)        |  
 | EXPLORE ALL POSSIBLE MAZE PATH   | [MAZE_FINDING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FINDING.PY)        |  
 | EXPLORE ALL POSSIBLE MAZE PATH WITH JUMP    | [MAZE_FIND_WITH_JUMP.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FIND_WITH_JUMP.PY)        |  
 | KEYPAD COMBINATIONS    | [KEYPAD_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/KEYPAD_COMBINATIONS.PY)        |  
-
 
 
 ----
