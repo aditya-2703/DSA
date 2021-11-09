@@ -5,11 +5,7 @@
 #        *       * 
 
 
-# n=3
-# row no  = 0 1 2 
-# outspace= 4 2 0  
-# col no  = 2 1 0 1 2 1 0 1 2 (3*n)
-# outspace= 2 1 0
+
 
 
 n = 5
