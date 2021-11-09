@@ -1,7 +1,8 @@
-# 23.        *      *
-#          *   *  *   *
-#        *      *      *
-
+# 23.    *       * 
+#        * *   * * 
+#        *   *   * 
+#        *       * 
+#        *       * 
 
 
 # n=3
@@ -10,35 +11,44 @@
 # col no  = 2 1 0 1 2 1 0 1 2 (3*n)
 # outspace= 2 1 0
 
-n=3
 
-for i in range(n):
-    outer_space =  2*((n-1)-i)
-    print(" "*outer_space,end="")
+n = 5
 
-    print("*",end="")
-
-    inner_space = ((n)*i)
-    print(" "*inner_space,end="")
-
-    if i!=0:
-        print("*",end="")
-
-    inner_second_space = ((n)*(n-i-1) - i)
-    print(" "*inner_second_space,end="")
-
-    if i!=n-1:
-        print("*",end="")
-
-    inner_third_space = ((n)*i)
-    print(" "*inner_third_space,end="")
+first = n//2 + 1  
+second = n//2 
+for i in range(first):
+    
+    print("* ",end="")
+    
+    f_inner_space = i-1
+    print("  "*f_inner_space,end="")
     
     if i!=0:
-        print("*",end="")
-
-
+        print("* ",end="")
+    
+    s_inner_space = (n-1) - 2*i -1 
+    print("  "*s_inner_space,end="")
+    
+    if i!=first-1:
+        print("* ",end="")
+    
+    print("  "*f_inner_space,end="")
+    
+    if i!=0:
+        print("* ",end="")
     print()
-
-
+    
+    
+for i in range(second):
+    print("* ",end="")
+    
+    inner_space = n-2
+    print("  "*inner_space,end="")
+    
+    
+    print("* ",end="")
+    
+    print()
+    
 
 
