@@ -42,6 +42,7 @@
 | 33.PY |[33.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/33.PY)        | 
 | 34.PY |[34.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/34.PY)        | 
 | 35.PY |[35.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/35.PY)        | 
+| 36.PY |[36.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/36.PY)        | 
 
 
 
