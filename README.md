@@ -77,7 +77,7 @@
 | 15.PY |[15.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/15.PY)        | 32.PY |[32.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/32.PY)        |  
 | 16.PY |[16.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/16.PY)        | 33.PY |[33.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/33.PY)        | 
 | 17.PY |[17.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/17.PY)        | 34.PY |[34.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/34.PY)        | 
-| 35.PY |[35.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/35.PY)        | 
+| 35.PY |[35.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/35.PY)        | 36.PY |[36.PY](https://github.com/aditya-2703/DSA/blob/main/PATTERN/36.PY)        |
 
 
 
