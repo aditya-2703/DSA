@@ -6,9 +6,14 @@
 #          4 3 3 3 3 3 4   
 #          4 4 4 4 4 4 4  
 
-# n=5
-# 0 1 2 3
-# 5 3 1 0
-# n-(i)*2 
+n=4
+def print_pattern(n):
+    row = 2*n-1
+    col = 2*n-1 
+    for i in range(row):
+        for j in range(col):
+            digit =  n-min(min(i,j),min(row-i-1,col-j-1))
+            print(digit,end=" ")
+        print()
 
-# code should be updated shortly
+print_pattern(n)
