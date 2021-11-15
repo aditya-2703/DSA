@@ -20,6 +20,10 @@
 | SUBARRAY WITH GIVEN SUM   | [SUBARRAY_WITH_GIVEN_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SUBARRAY_WITH_GIVEN_SUM.PY)|  
 | TRAPPING RAIN WATER       | [TRAPPING_WATER.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     |    
 | WAVE ARRAY                | [WAVE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                     |    
+| KADANE 1D ARRAY | [KADANE'S 1D_N.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N.py)        |  
+| KADANE 1D ARRAY   | [KADANE'S 1D_N2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N2.py)                 | 
+| KADANE 1D ARRAY| [KADANE'S 1D_N3.py](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N3.py)                 |   
+| KADANE'S ALGORITHM FOR 2D ARRAY        | [KADANE'S.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S.py)                   |  
 | WHO HAS A MAJORITY        | [WHO_HAS_MAJORITY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)                     |    
 | DUPLICATE ZEROS           | [DUPLICATE_ZEROS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)|
 | DELETE ITEM FROM ARRAY        | [DELETE_ITEM_FROM_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DELETE_ITEM_FROM_ARR.PY)                     |    
