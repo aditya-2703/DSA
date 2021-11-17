@@ -1,12 +1,7 @@
-<h1 align="center" style="font-size:30px;text-shadow:0px 3px 3px grey;">DSA</h1>
 <p align="center">
-  <img width="200" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-7.png">
+  <img src="data structures & algorithms.jpg">
 </p>
 
-
-<p align="center">
-  This repository consists Data-structures and Algorithms problems in python.
-</p>
 
 # Topics 
 ----
