@@ -7,7 +7,8 @@
 
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
-| 01 KNAPSACK WITH DYNAMIC PROGRAMMING APPROACH  | [01_knapsack_dyna.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/01_knapsack_dyna.py)              |
+| 01 KNAPSACK   | [01_knapsack_dyna.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/01_knapsack_dyna.py)              |
+| UNBOUNDED 01 KNAPSACK   | [UNBOUNDED_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/UNBOUNDED_KNAPSACK.PY)              |
 | ASSEMBLY LINE SHEDULAR          | [ASSEMBLY_LINE_SCHEDULAR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ASSEMBLY_LINE_SCHEDULAR.PY)        |   
 | BIONOMIAL    | [BIONOMIAL.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/BIONOMIAL.PY)     | 
 | DECODE STRING WAYS DP APPROACH    | [DECODE_STRINGS_WAYS_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_STRINGS_WAYS._DP.py)       |  
