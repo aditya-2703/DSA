@@ -8,7 +8,7 @@
 
 | | | | |
 | ------ | ------ | ------ | ------ | 
-| ![patterns]() | ![math]()  | ![bit magic]() | ![array]() |
+| ![patterns](logos/1.png) | ![math]()  | ![bit magic]() | ![array]() |
 | ![string]() | ![matrix]()  | ![sorting]() | ![searching]() |
 | ![hashing]() | ![stack]()  | ![queue]() | ![linked list]() |
 | ![recursion]() | ![backtracking]()  | ![tree]() | ![graph]() |
