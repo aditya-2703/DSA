@@ -8,11 +8,11 @@
 
 | | | | |
 | ------ | ------ | ------ | ------ | 
-| ![patterns](logos/1.png) | ![math](logos/1.png)  | ![bit magic](logos/1.png) | ![array](logos/1.png) |
-| ![string](logos/1.png) | ![matrix](logos/1.png)  | ![sorting](logos/1.png) | ![searching](logos/1.png) |
-| ![hashing](logos/1.png) | ![stack](logos/1.png)  | ![queue](logos/1.png) | ![linked list](logos/1.png) |
-| ![recursion](logos/1.png) | ![backtracking](logos/1.png)  | ![tree](logos/1.png) | ![graph](logos/1.png) |
-| ![greedy](logos/1.png) | ![divide&conqure](logos/1.png)  | ![dp](logos/1.png) | ![]() |
+| ![patterns](logos/1.png) | ![math](logos/6.png)  | ![bit magic](logos/16.png) | ![array](logos/2.png) |
+| ![string](logos/1.png) | ![matrix](logos/3.png)  | ![sorting](logos/13.png) | ![searching](logos/14.png) |
+| ![hashing](logos/18.png) | ![stack](logos/4.png)  | ![queue](logos/5.png) | ![linked list](logos/7.png) |
+| ![recursion](logos/11.png) | ![backtracking](logos/12.png)  | ![tree](logos/8.png) | ![graph](logos/10.png) |
+| ![greedy](logos/9.png) | ![divide&conqure](logos/15.png)  | ![dp](logos/17.png) | ![]() |
 
 * [Pattern](https://github.com/aditya-2703/DSA/tree/main/PATTERN)
 
