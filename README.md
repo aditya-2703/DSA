@@ -8,7 +8,7 @@
 
 | | | | |
 | ------ | ------ | ------ | ------ | 
-| ![patterns](logos/1.png) ![patterns](https://github.com/aditya-2703/DSA/tree/main/PATTERN) | ![math](logos/6.png)  | ![bit magic](logos/16.png) | ![array](logos/2.png) |
+| ![patterns](logos/1.png) ![![patterns](logos/1.png)](https://github.com/aditya-2703/DSA/tree/main/PATTERN) | ![math](logos/6.png)  | ![bit magic](logos/16.png) | ![array](logos/2.png) |
 | ![string](logos/1.png) | ![matrix](logos/3.png)  | ![sorting](logos/13.png) | ![searching](logos/14.png) |
 | ![hashing](logos/18.png) | ![stack](logos/4.png)  | ![queue](logos/5.png) | ![linked list](logos/7.png) |
 | ![recursion](logos/11.png) | ![backtracking](logos/12.png)  | ![tree](logos/8.png) | ![graph](logos/10.png) |
