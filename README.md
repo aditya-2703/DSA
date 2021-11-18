@@ -8,49 +8,12 @@
 
 | | | | |
 | ------ | ------ | ------ | ------ | 
-| ![patterns](logos/1.png) <br /> [patterns](https://github.com/aditya-2703/DSA/tree/main/PATTERN) | ![math](logos/6.png) <br /> [math](https://github.com/aditya-2703/DSA/tree/main/MATHS)  | ![bit magic](logos/16.png) <br /> [bit magic](https://github.com/aditya-2703/DSA/tree/main/BIT_MANIPULATION) | ![array](logos/2.png) <br /> [array](https://github.com/aditya-2703/DSA/tree/main/ARRAY) |
+| ![patterns](logos/1.png) <br /> * [patterns](https://github.com/aditya-2703/DSA/tree/main/PATTERN) | ![math](logos/6.png) <br /> [math](https://github.com/aditya-2703/DSA/tree/main/MATHS)  | ![bit magic](logos/16.png) <br /> [bit magic](https://github.com/aditya-2703/DSA/tree/main/BIT_MANIPULATION) | ![array](logos/2.png) <br /> [array](https://github.com/aditya-2703/DSA/tree/main/ARRAY) |
 | ![string](logos/1.png) <br /> [string](https://github.com/aditya-2703/DSA/tree/main/STRING) | ![matrix](logos/3.png) <br /> [matrix](https://github.com/aditya-2703/DSA/tree/main/MATRIX)  | ![sorting](logos/13.png) <br /> [sorting](https://github.com/aditya-2703/DSA/tree/main/sorting) | ![searching](logos/14.png) <br /> [searching](https://github.com/aditya-2703/DSA/tree/main/searching) |
 | ![hashing](logos/18.png) <br /> [hashing](https://github.com/aditya-2703/DSA/tree/main/HASHMAP)  | ![stack](logos/4.png) <br /> [stack](https://github.com/aditya-2703/DSA/tree/main/STACK)   | ![queue](logos/5.png) <br /> [queue](https://github.com/aditya-2703/DSA/tree/main/QUEUE)  | ![linked list](logos/7.png) <br /> [linked list](https://github.com/aditya-2703/DSA/tree/main/LINKED_LIST)  |
 | ![recursion](logos/11.png) <br /> [recursion](https://github.com/aditya-2703/DSA/tree/main/RECURSION)  | ![backtracking](logos/12.png) <br /> [backtracking](https://github.com/aditya-2703/DSA/tree/main/backtraking)   | ![tree](logos/8.png) <br /> [tree](https://github.com/aditya-2703/DSA/tree/main/TREE)  | ![graph](logos/10.png) <br /> [graph](https://github.com/aditya-2703/DSA/tree/main/GRAPH)  |
 | ![greedy](logos/9.png) <br /> [greedy](https://github.com/aditya-2703/DSA/tree/main/greedy)  | ![divide&conqure](logos/15.png) <br /> [divide and conquer](https://github.com/aditya-2703/DSA/tree/main/divide_and_conqure)   | ![dp](logos/17.png) <br /> [dp](https://github.com/aditya-2703/DSA/tree/main/dynamic_programming)  | ![]() |
 
-* [Pattern](https://github.com/aditya-2703/DSA/tree/main/PATTERN)
-
-* [Maths](https://github.com/aditya-2703/DSA/tree/main/MATHS)
-
-* [Arrays](https://github.com/aditya-2703/DSA/tree/main/ARRAY)
-
-* [String](https://github.com/aditya-2703/DSA/tree/main/STRING)
-
-* [Stack](https://github.com/aditya-2703/DSA/tree/main/STACK)
-
-* [Queue](https://github.com/aditya-2703/DSA/tree/main/QUEUE)
-
-* [Matrix](https://github.com/aditya-2703/DSA/tree/main/MATRIX)
-
-* [Linked List](https://github.com/aditya-2703/DSA/tree/main/LINKED_LIST)
-
-* [Recursion](https://github.com/aditya-2703/DSA/tree/main/RECURSION)
-
-* [Hashing](https://github.com/aditya-2703/DSA/tree/main/HASHMAP)
-
-* [Sorting](https://github.com/aditya-2703/DSA/tree/main/sorting)
-
-* [Searching](https://github.com/aditya-2703/DSA/tree/main/searching)
-
-* [Tree](https://github.com/aditya-2703/DSA/tree/main/TREE)
-
-* [Graph](https://github.com/aditya-2703/DSA/tree/main/GRAPH)
-
-* [Divide And Conqure](https://github.com/aditya-2703/DSA/tree/main/divide_and_conqure)
-
-* [Bit Manipulation](https://github.com/aditya-2703/DSA/tree/main/BIT_MANIPULATION)
-
-* [Greedy](https://github.com/aditya-2703/DSA/tree/main/greedy)
-
-* [Backtracking](https://github.com/aditya-2703/DSA/tree/main/backtraking)
-
-* [Dynamic Programming](https://github.com/aditya-2703/DSA/tree/main/dynamic_programming)
 
 
 ----
