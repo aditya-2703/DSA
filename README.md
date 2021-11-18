@@ -6,6 +6,14 @@
 # Topics 
 ----
 
+| | | | |
+| ------ | ------ | ------ | ------ | 
+| ![patterns]() | ![math]()  | ![bit magic]() | ![array]() |
+| ![string]() | ![matrix]()  | ![sorting]() | ![searching]() |
+| ![hashing]() | ![stack]()  | ![queue]() | ![linked list]() |
+| ![recursion]() | ![backtracking]()  | ![tree]() | ![graph]() |
+| ![greedy]() | ![divide&conqure]()  | ![dp]() | ![]() |
+
 * [Pattern](https://github.com/aditya-2703/DSA/tree/main/PATTERN)
 
 * [Maths](https://github.com/aditya-2703/DSA/tree/main/MATHS)
