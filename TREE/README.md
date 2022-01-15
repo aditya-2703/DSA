@@ -30,7 +30,7 @@
 | IS SYMETRIC IN GENERIC TREE | [IS_SYMETRIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SYMETRIC_TREE.PY)        | 
 | K TH LARGEST ELEMENT IN GENERIC TREE | [K_TH_LARGEST_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/K_TH_LARGEST_ELEMENT.PY)        | 
 | MAX SUBTREE SUM IN GENERIC TREE | [MAX_SUBTREE_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_SUBTREE_SUM.PY)        | 
-| BINARY TREE CREATION     | [BINARY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.py)     | 
+| BINARY TREE CREATION     | [BINARY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.PY)     | 
 | BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
 | BRANCH SUM BINARY TREE             | [BRANCH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BRANCH_SUM.PY)     | 
 | LEFT CLONE TREE BINARY TREE             | [LEFT_CLONE_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEFT_CLONE_TREE.PY)     | 
