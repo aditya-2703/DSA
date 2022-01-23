@@ -107,7 +107,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | ANAGRAM     | [ANAGRAM.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/ANAGRAM.PY)              |
 | BINARY CHECK          | [BINARY_CHECK.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/BINARY_CHECK.PY)        |   
 | CONVERT TO ROMAN    | [CONVERT_ROMAN.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/CONVERT_ROMAN.PY)     | 
@@ -124,7 +124,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | STACK | [STACK.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/STACK.py)              |
 | STACK USING LINKED LIST         | [STACK_USING_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/STACK_USING_LINKED_LIST.PY)        |   
 | MAXIMUM RECTANGULAR AREA IN HISTOGRAM    | [Maximum_Rectangular_Area_in_a_Histogram.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Maximum_Rectangular_Area_in_a_Histogram.py)     | 
@@ -150,7 +150,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | QUEUE   | [QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/QUEUE.PY)              |
 | QUEUE WITH LINKED LIST    | [QUEUE_WITH_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/QUEUE_WITH_LINKED_LIST.PY)        |   
 | CIRCULAR QUEUE| [CIRCULAR_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/CIRCULAR_QUEUE.PY)     | 
@@ -164,7 +164,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | ADDITION OF TWO MATRIX     | [ADDITION_TWO_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/ADDITION_TWO_MAT.PY)              |
 | BOOLEAN MATRIX| [BOOLEAN_MATRIX.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/BOOLEAN_MATRIX.PY)        |   
 | DETERMINATION OF TWO MATRIX    | [DETERMINATION_TWO_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/DETERMINATION_TWO_MAT.PY)     | 
@@ -205,7 +205,7 @@
 
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | FIND  STRING LENGTH    | [STR_LEN.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_LEN.PY)                 | 
 | DELETE X FROM STRING     | [STR_DEL_X.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_DEL_X.PY)                 | 
 | REPLACE X WITH Y IN STRING    | [STR_REPLACE_X.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_OF_N_NATURAL_NO.PY)       | 
@@ -237,7 +237,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | AFTER COLLISION HASHING   | [ACO_HASH_FUNCTION.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/ACO_HASH_FUNCTION.PY)                 | 
 | BEFORE COLLISION HASHING | [BCO_HASH_FUNCTION.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/BCO_HASH_FUNCTION.PY)              |
 | COUNT DISTINCT ELEMENT IN EVERY WINDOW    | [Count_distinct_elements_in_every_window.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Count_distinct_elements_in_every_window.py)        |   
@@ -257,7 +257,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | BUBBLE SORT     | [bubble.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/bubble.py)              |
 | INSERTION SORT          | [insertion.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/insertion.py)        |   
 | SELECTION SORT    | [selection.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/selection.py)     | 
@@ -279,7 +279,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | LINEAR SEARCH     | [linear_search.PY](https://github.com/aditya-2703/DSA/blob/main/searching/linear_search.py)              |
 | BINARY SEARCH      | [binary_search.PY](https://github.com/aditya-2703/DSA/blob/main/searching/binary_search.py)        |   
 | TERNARY SEARCH    | [TERNARY_SEARCH.PY](https://github.com/aditya-2703/DSA/blob/main/searching/TERNARY_SEARCH.PY)     | 
@@ -295,7 +295,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | TREE CREATION     | [TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/TREE_CREATION.PY)              |
 | GENERIC TREE CREATION | [CONSTRUCTION_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/CONSTRUCTION_GENERIC_TREE.PY)        |   
 | GENERIC TREE CREATION 2.0 | [CONSTRUCTION_GENERIC_TREE2_2.0.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/CONSTRUCTION_GENERIC_TREE2_2.0.PY)       |   
@@ -359,7 +359,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | FINDING EXPONENTIAL      | [EXPONENTIAL.PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/EXPONENTIAL.PY)              |
 | LARGE NUMBER MULTIPLICAIOTN  | [LARGE_NUM_MUL.PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/LARGE_NUM_MUL.PY)        |   
 | MIN MAX PROBLEM    | [MIN_MAX_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/MIN_MAX_PROBLEM.PY)     | 
@@ -371,7 +371,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | BASIC OPERAIONS     | [BASIC.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BASICS.PY)              |
 | BIT DIFFERENCE PROBLEM       | [BIT_DIFFERENCE.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BIT_DIFFERENCE.PY)        |   
 | BINARY TO GREY CODE EQUIVALENCE | [Binary_To_Gray_Code_equivalent.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Binary_To_Gray_Code_equivalent.py)     | 
@@ -396,7 +396,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | 01 KNAPSACK PROBLEM     | [01_knapsach_recursion.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/01_knapsack_recursion.py)              |
 | CONNECTED COMPONENT PROBLEM   | [CONNECTED_COMPONENT.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/CONNECTED_COMPONENT.PY)        |   
 | DECODE STRING WAYS PROBLEM| [DECODE_STRINGS_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/DECODE_STRINGS_WAYS.py)     | 
@@ -411,7 +411,7 @@
 ----
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | N QUEEN PROBLEM     | [N_QUEEN_DP.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/N_QUEEN_DP.PY)              |
 | SUDUKO SOLVER       | [SUDOKO.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUDOKO.PY)        |   
 | TRAVELLING SALESMAN PROBLEM    | [Travelling_salesman_problem.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)     | 
@@ -423,7 +423,7 @@
 
 
 | Problems                  | Solution                         |
-| -------------             |:-------------:                   |
+| -------------             |:-------------                   |
 | 01 KNAPSACK   | [01_knapsack_dyna.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/01_knapsack_dyna.py)              |
 | UNBOUNDED 01 KNAPSACK   | [UNBOUNDED_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/UNBOUNDED_KNAPSACK.PY)              |
 | ASSEMBLY LINE SHEDULAR          | [ASSEMBLY_LINE_SCHEDULAR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ASSEMBLY_LINE_SCHEDULAR.PY)        |   
