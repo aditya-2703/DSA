@@ -1,39 +1,68 @@
-class Shortest_path:
-    def __init__(self,size,graph):
-        self.size=size
-        self.graph=graph
-        self.INF=999999999999
-    def min_distance(self,min_path,marked):
-        minval=self.INF
-        min_index=0
-        for i in range(self.size):
-            if min_path[i]<minval and marked[i]==False:
-                minval=min_path[i]
-                min_index=i
-        return min_index
-    def printSolution(self, dist): 
-        print ("Vertex tDistance from Source") 
-        for node in range(self.size): 
-            print (node, "t", dist[node])
-    def dijskras(self,src):
-        marked=[False]*self.size
-        min_path=[self.INF]*self.size
-        min_path[src]=0
-        for i in range(self.size):
-            u=self.min_distance(min_path,marked)
+# graph 
+# -----------------------------------------------------------------------------------------------------------
+#           0-------[10]------1\
+#           |               / | \
+#           |           /     |  [9]  
+#          [30]    [20]      [5]   2  
+#           |    /            |   /
+#           | /               |  [8]
+#           4 ------[40]------3 /
+# 
+# -----------------------------------------------------------------------------------------------------------
 
-            marked[u]=True
-            for j in range(self.size):
-                if  self.graph[u][j]>0 and marked[j]==False and min_path[j]>min_path[u]+self.graph[u][j]:
-                    min_path[j]=min_path[u]+self.graph[u][j]  
-        self.printSolution(min_path)
-     
+# each vertex has object of class vertex 
+# 0 -> [vertex,vertex]
+# vertex = vertex-0 , weight-10 , edge-1
+
+import queue
+
+
+class Graph:
+    def __init__(self,graph,size,weight_matrix):
+        self.edge = graph
+        self.size = size
+        self.weight_matrix = weight_matrix
+    
+    def dikstra(self,src):
+        pq = queue.PriorityQueue()
+        visited = [False]*self.size
+        visited[src]=True
+        pq.put((0,src))
+        shortest_paths = ""
+        while pq.queue:
+            nodes_weight,node = pq.get()
+            visited[node]=True
+            for each_node in self.edge[node]:
+                if visited[each_node]==False:
+                    u = node
+                    v = each_node
+                    weight = min(self.weight_matrix[u][v]  + nodes_weight,self.weight_matrix[u][v])
+                    pq.put((weight,each_node))
+                    msg = f"{u} to {v}"
+
+                    shortest_paths+=msg + " -> " + str(weight) + "\n"
+                    
+        print(shortest_paths)
+            
 if __name__ == '__main__':
+    inf = 99999999
+    graph = {
+        0:set([1,4]),
+        1:set([0,2,3,4]),
+        2:set([1,3]),
+        3:set([1,2,4]),
+        4:set([0,1,3]),
+    }
+    weight_list = [[inf,10,inf,inf,30],
+                   [10,inf,9,5,20],
+                   [inf,9,inf,8,inf],
+                   [inf,5,8,inf,40],
+                   [inf,20,inf,40,inf]]
 
-    graph =[[0,10,5,0,7],
-            [10,0,3,1,0],
-            [5,3,0,9,2],
-            [0,1,9,0,6],
-            [7,0,2,6,0]]
-    obj=Shortest_path(len(graph),graph)
-    obj.dijskras(0)
+    size = 5
+    g = Graph(graph,size,weight_list)
+    
+    # print("edge",g.edge)
+
+    g.dikstra(0)
+    
