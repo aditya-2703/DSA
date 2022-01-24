@@ -18,6 +18,9 @@
 | HAMILTON PATH          | [HAMILTON_PATH.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/HAMILTON_PATH.PY)        |   
 | KNIGHT TOUR          | [KNIGHT_TOUR.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KNIGHT_TOUR.PY)        |   
 | BFS     | [BFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/BSF.PY)              |
+| SPREAD INFECTION PROBLEM     | [SPREAD_INFECTION.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/SPREAD_INFECTION.PY)              |
+| IS GRAPH CYCLIC  | [IS_GRAPH_CYCLIC.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CYCLIC.PY)              |
+| IS GRAPH BIPARTITE     | [IS_GRAPH_BIPARTITE.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_BIPARTITE.PY)              |
 | DIJSTRA'S ALGORITHM   | [DIJSKRA'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)     | 
 | KRUSKAL'S ALGORITHM| [KRUSKAL'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)       |  
 | PRIM'S ALGORITHM| [PRIM'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)        |  
