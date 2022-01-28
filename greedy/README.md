@@ -8,7 +8,7 @@
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
 | 01 KNAPSACK PROBLEM     | [01_knapsach_recursion.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/01_knapsack_recursion.py)              |
-| FRACTIONAL KNAPSACK     | [FRACTIONAL_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/FRACTIONAL_KNAPSACK.py)              |
+| FRACTIONAL KNAPSACK     | [FRACTIONAL_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/FRACTIONAL_KNAPSACK.PY)              |
 | CONNECTED COMPONENT PROBLEM   | [CONNECTED_COMPONENT.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/CONNECTED_COMPONENT.PY)        |   
 | DECODE STRING WAYS PROBLEM| [DECODE_STRINGS_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/DECODE_STRINGS_WAYS.py)     | 
 | LONGEST COMMON SUBSEQUENCE| [EDIT_DISTANCE_BET2STRING.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/EDIT_DISTANCE_BET2STRING.py)       |  
