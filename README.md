@@ -401,7 +401,7 @@
 | Problems                  | Solution                         |
 | -------------             |:-------------:                   |
 | 01 KNAPSACK PROBLEM     | [01_knapsach_recursion.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/01_knapsack_recursion.py)              |
-| FRACTIONAL KNAPSACK     | [FRACTIONAL_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/FRACTIONAL_KNAPSACK.py)              |
+| FRACTIONAL KNAPSACK     | [FRACTIONAL_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/FRACTIONAL_KNAPSACK.PY)              |
 | CONNECTED COMPONENT PROBLEM   | [CONNECTED_COMPONENT.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/CONNECTED_COMPONENT.PY)        |   
 | DECODE STRING WAYS PROBLEM| [DECODE_STRINGS_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/DECODE_STRINGS_WAYS.py)     | 
 | LONGEST COMMON SUBSEQUENCE| [EDIT_DISTANCE_BET2STRING.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/EDIT_DISTANCE_BET2STRING.py)       |  
@@ -429,7 +429,7 @@
 
 
 | Problems                  | Solution                         |
-| -------------             |:-------------                   |
+| -------------             |:-------------:                   |
 | 01 KNAPSACK   | [01_knapsack_dyna.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/01_knapsack_dyna.py)              |
 | UNBOUNDED 01 KNAPSACK   | [UNBOUNDED_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/UNBOUNDED_KNAPSACK.PY)              |
 | ASSEMBLY LINE SHEDULAR          | [ASSEMBLY_LINE_SCHEDULAR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ASSEMBLY_LINE_SCHEDULAR.PY)        |   
@@ -446,6 +446,13 @@
 | GOLDMINE DIG PROBLEM          | [GOLDMINE_DIG.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/GOLDMINE_DIG.PY)        |   
 | COIN CHANGE PERMUTATION       | [COIN_CHANGE_PERMUTATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_PERMUTATIONS.PY)        |   
 | COIN CHANGE COMBINATIONS      | [COIN_CHANGE_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_COMBINATIONS.PY)        |   
+| DECODE WAYS| [DECODE_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_WAYS.PY)     | 
+| COUNT BINARY STRING | [COUNT_BIN_STR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_BIN_STR.PY)     | 
+| ARRANGE THE BUILDING | [ARRANGE_BUILDING.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ARRANGE_BUILDING.PY)     | 
+| COUNT SUBSEQUENCE OF A+B+C | [COUNT_SUBSEQUENCE_ABC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_SUBSEQUENCE_ABC.PY)     | 
+| MAX SUM OF TWO NON ADJUCENT | [SUM_OF_TWO_NON_ADJACENT.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUM_OF_TWO_NON_ADJACENT.PY)     | 
+| PAINT HOUSE  | [PAINT_HOUSE.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE.PY)     | 
+| PAINT HOUSE 2 | [PAINT_HOUSE_2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE_2.PY)     | 
 | MATRIX SUM RECTANGLE| [MATRIX_SUM_REC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MATRIX_SUM_REC.py)     | 
 | RANGE QUERY SUM PROBLEM    | [RANGE_QUERY.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/RANGE_QUERY.py)       |  
 | STAIR CASE PROBLEM WITH  DP APPROACH|[STAIR_DP_BOTTOMUP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/STAIR_DP_BOTTOMUP.py)        |  
