@@ -23,6 +23,13 @@
 | GOLDMINE DIG PROBLEM          | [GOLDMINE_DIG.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/GOLDMINE_DIG.PY)        |   
 | COIN CHANGE PERMUTATION       | [COIN_CHANGE_PERMUTATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_PERMUTATIONS.PY)        |   
 | COIN CHANGE COMBINATIONS      | [COIN_CHANGE_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_COMBINATIONS.PY)        |   
+| DECODE WAYS| [DECODE_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_WAYS.PY)     | 
+| COUNT BINARY STRING | [COUNT_BIN_STR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_BIN_STR.PY)     | 
+| ARRANGE THE BUILDING | [ARRANGE_BUILDING.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ARRANGE_BUILDING.PY)     | 
+| COUNT SUBSEQUENCE OF A+B+C | [COUNT_SUBSEQUENCE_ABC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_SUBSEQUENCE_ABC.PY)     | 
+| MAX SUM OF TWO NON ADJUCENT | [SUM_OF_TWO_NON_ADJACENT.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUM_OF_TWO_NON_ADJACENT.PY)     | 
+| PAINT HOUSE  | [PAINT_HOUSE.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE.PY)     | 
+| PAINT HOUSE 2 | [PAINT_HOUSE_2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE_2.PY)     | 
 | MATRIX SUM RECTANGLE| [MATRIX_SUM_REC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MATRIX_SUM_REC.py)     | 
 | RANGE QUERY SUM PROBLEM    | [RANGE_QUERY.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/RANGE_QUERY.py)       |  
 | STAIR CASE PROBLEM WITH  DP APPROACH|[STAIR_DP_BOTTOMUP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/STAIR_DP_BOTTOMUP.py)        |  
