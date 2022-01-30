@@ -30,6 +30,8 @@
 | MAX SUM OF TWO NON ADJUCENT | [SUM_OF_TWO_NON_ADJACENT.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUM_OF_TWO_NON_ADJACENT.PY)     | 
 | PAINT HOUSE  | [PAINT_HOUSE.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE.PY)     | 
 | PAINT HOUSE 2 | [PAINT_HOUSE_2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE_2.PY)     | 
+|PAINT FENCE PROBLEM| [PAINT_FENCE.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_FENCE.PY)|
+|TILLING 2x1 PROBLEM| [TILLING_2x1.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/TILLING_2x1.PY)|
 | MATRIX SUM RECTANGLE| [MATRIX_SUM_REC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MATRIX_SUM_REC.py)     | 
 | RANGE QUERY SUM PROBLEM    | [RANGE_QUERY.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/RANGE_QUERY.py)       |  
 | STAIR CASE PROBLEM WITH  DP APPROACH|[STAIR_DP_BOTTOMUP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/STAIR_DP_BOTTOMUP.py)        |  
