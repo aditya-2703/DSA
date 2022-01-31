@@ -5,31 +5,28 @@
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| ARRANGE ARRAY IN O(1)     | [ARRANGE_ARRAY_0(1).PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)              |
-| ARRAY N ROTATION          | [ARRAY_N_ROTATION.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRAY_N_ROTATION.PY)        |   
-| FIND EQUILIBRIAM POINT    | [FIND_EQUILIBRIAM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_EQUILIBRIAM.PY)     | 
-| FIND IMMIDIATE SMALLER    | [FIND_IMMIDIATE_SMALLER_X.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_IMMIDIATE_SMALLER_X.PY)       |  
-| FIND TRANSITION POINT     | [FIND_TRANSITION_POINT.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_TRANSITION_POINT.PY)        |  
-| FIND REPEATING ELEMENT    | [FIRST_REPEATING_ELE.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIRST_REPEATING_ELE.PY)        |  
-| LEADER IN ARRAY           | [LEADER_IN_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LEADER_IN_ARRAY.PY)                 | 
-| MERGE WITHOUT EXTRA SPACE | [Merge_Without_Extra_Space.py](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Merge_Without_Extra_Space.py)                 |   
-| REMOVE DUPLICATE          | [REMOVE_DUPLI.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REMOVE_DUPLI.PY)                   |  
-| REVERSE ARRAY IN GROUP    | [REVERSE_ARR_IN_GROUP.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REVERSE_ARR_IN_GROUP.PY)                       |    
-| SUBARRAY WITH GIVEN SUM   | [SUBARRAY_WITH_GIVEN_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SUBARRAY_WITH_GIVEN_SUM.PY)|  
-| TRAPPING RAIN WATER       | [TRAPPING_WATER.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     |    
-| WAVE ARRAY                | [WAVE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                     |    
-| KADANE 1D ARRAY | [KADANE'S 1D_N.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N.py)        |  
-| KADANE 1D ARRAY   | [KADANE'S 1D_N2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N2.py)                 | 
-| KADANE 1D ARRAY| [KADANE'S 1D_N3.py](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N3.py)                 |   
-| KADANE'S ALGORITHM FOR 2D ARRAY        | [KADANE'S.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S.py)                   |  
-| WHO HAS A MAJORITY        | [WHO_HAS_MAJORITY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)                     |    
-| DUPLICATE ZEROS           | [DUPLICATE_ZEROS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)|
-| DELETE ITEM FROM ARRAY        | [DELETE_ITEM_FROM_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DELETE_ITEM_FROM_ARR.PY)                     |    
-| NO OF GOOD PARIS   | [NO_OF_GOOD_PAIRS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/NO_OF_GOOD_PAIRS.PY)|
-| TWO NUM SUM       | [TWO_NUM_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TWO_NUM_SUM.PY)                     |    
-| SMALLEST DIFFERENCE       | [SMALLEST_DIFFERENCE.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SMALLEST_DIFFERENCE.PY)                     |    
-| MEJORITY ELEMENT N/2 PROBLEM    | [MAJORITY_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/MAJORITY_ELEMENT.PY)                     |    
-| LONGEST PEAK     | [LONGEST_PEAK.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LONGEST_PEAK.PY)                     |    
-| SUM OF ALL ODD LENGTH SUBARRAY    | [Sum_of_All_Odd_Length_Subarrays.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Sum_of_All_Odd_Length_Subarrays.PY)                     |    
+| Problems                  | Solution                         | Platform                           |
+| :-------------            |:-------------                   | :-------------                     |
+| ARRANGE ARRAY IN O(1)     | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)                 | []() |
+| ARRAY N ROTATION          | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRAY_N_ROTATION.PY)                   | [LEETCODE](https://leetcode.com/problems/rotate-array/) |   
+| FIND EQUILIBRIAM POINT    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_EQUILIBRIAM.PY)                   | [GFG](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/) | 
+| FIND IMMIDIATE SMALLER    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_IMMIDIATE_SMALLER_X.PY)           | [GFG](https://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-element-in-an-array/) |  
+| FIND TRANSITION POINT     | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_TRANSITION_POINT.PY)              | [GFG](https://www.geeksforgeeks.org/find-transition-point-binary-array/) |  
+| FIND REPEATING ELEMENT    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIRST_REPEATING_ELE.PY)                | [GFG](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/) |  
+| LEADER IN ARRAY           | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LEADER_IN_ARRAY.PY)                    | [GFG](https://www.geeksforgeeks.org/leaders-in-an-array/) | 
+| MERGE WITHOUT EXTRA SPACE | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Merge_Without_Extra_Space.py)          | [GFG](https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/) |   
+| REMOVE DUPLICATE          | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REMOVE_DUPLI.PY)                       | [LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  
+| REVERSE ARRAY IN GROUP    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REVERSE_ARR_IN_GROUP.PY)               | [GFG](https://www.geeksforgeeks.org/reverse-an-array-in-groups-of-given-size/) |    
+| SUBARRAY WITH GIVEN SUM   | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SUBARRAY_WITH_GIVEN_SUM.PY)            | [GFG](https://www.geeksforgeeks.org/find-subarray-with-given-sum/) |  
+| TRAPPING RAIN WATER       | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     | [LEETCODE](https://leetcode.com/problems/trapping-rain-water/) |    
+| WAVE ARRAY                | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                         | [GFG](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1) |    
+| WHO HAS A MAJORITY            | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)               | [GFG](https://www.geeksforgeeks.org/majority-element/) |    
+| DUPLICATE ZEROS               | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)                | [LEETCODE](https://leetcode.com/problems/duplicate-zeros/) |
+| DELETE ITEM FROM ARRAY        | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DELETE_ITEM_FROM_ARR.PY)           | [LEETCODE](https://leetcode.com/problems/remove-element/) |    
+| NO OF GOOD PARIS              | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/NO_OF_GOOD_PAIRS.PY)               | [LEETCODE](https://leetcode.com/problems/number-of-good-pairs/) |
+| TWO NUM SUM                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TWO_NUM_SUM.PY)                    | [LEETCODE](https://leetcode.com/problems/two-sum/) |    
+| SMALLEST DIFFERENCE           | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SMALLEST_DIFFERENCE.PY)            | [GFG](https://www.geeksforgeeks.org/smallest-difference-pair-values-two-unsorted-arrays/) |    
+| MEJORITY ELEMENT N/2 PROBLEM  | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/MAJORITY_ELEMENT.PY)               | [LEETCODE](https://leetcode.com/problems/majority-element/) |    
+| LONGEST PEAK                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LONGEST_PEAK.PY)                   | [LEETCODE](https://leetcode.com/problems/find-peak-element/) |    
+| SUM OF ALL ODD LENGTH SUBARRAY| [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Sum_of_All_Odd_Length_Subarrays.PY)| [LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |    
+
