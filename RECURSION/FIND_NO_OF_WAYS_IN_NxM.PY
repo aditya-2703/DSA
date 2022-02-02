@@ -25,6 +25,8 @@
 # generalize
         # m,n = (m-1,n)+(m,n-1)
 def Method_1(m,n):
+    if m<0 or n<0:
+        return 0
     if m==1 or n==1:
         return 1
     return Method_1(m-1,n)+Method_1(m,n-1)
