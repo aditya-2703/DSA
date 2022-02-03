@@ -3,25 +3,25 @@
   <img height="230" src="logo.png">
 </p>
 
-----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------:                   |
-| GRAPH CREATION SET     | [GRAPH_CREATION_SET.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_SET.PY)              |
-| GRAPH CREATION LIST | [GRAPH_CREATION_ADJ.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_ADJ.PY)        |   
-| GRAPH CREATION MATRIX | [GRAPH_CREATION_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_MAT.PY)        |   
-| DFS          | [DFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DFS.PY)        |   
-| GET CONNECTED COMPONENTS          | [GET_CONNECTED_COMPO.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GET_CONNECTED_COMPO.PY)     | 
-| IS GRAPH CONNECTED          | [IS_GRAPH_CONNECTED.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CONNECTED.PY)        |   
-| GET NUMBER OF ISLANDS          | [COUNT_NO_OF_ISLAND.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/COUNT_NO_OF_ISLAND.PY)        |   
-| PERFECT FRIENDS         | [PERFECT_FRIEND.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PERFECT_FRIEND.PY)        |   
-| HAMILTON PATH          | [HAMILTON_PATH.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/HAMILTON_PATH.PY)        |   
-| KNIGHT TOUR          | [KNIGHT_TOUR.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KNIGHT_TOUR.PY)        |   
-| BFS     | [BFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/BSF.PY)              |
-| SPREAD INFECTION PROBLEM     | [SPREAD_INFECTION.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/SPREAD_INFECTION.PY)              |
-| IS GRAPH CYCLIC  | [IS_GRAPH_CYCLIC.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CYCLIC.PY)              |
-| IS GRAPH BIPARTITE     | [IS_GRAPH_BIPARTITE.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_BIPARTITE.PY)              |
-| DIJSTRA'S ALGORITHM   | [DIJSKRA'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)     | 
-| KRUSKAL'S ALGORITHM| [KRUSKAL'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)       |  
-| PRIM'S ALGORITHM| [PRIM'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)        |  
-| FLOYD WARSHAL    | [floyd_warshal.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)        |  
+
+| Problems                  | Solution                         | Platform |
+| :-------------             |:-------------                   | :-------------             |
+| GRAPH CREATION SET         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_SET.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |
+| GRAPH CREATION LIST        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_ADJ.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |   
+| GRAPH CREATION MATRIX      | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_MAT.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |   
+| DFS                        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DFS.PY)                 | [GFG](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) |   
+| GET CONNECTED COMPONENTS   | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GET_CONNECTED_COMPO.PY) | [GFG](https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | 
+| IS GRAPH CONNECTED         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CONNECTED.PY)  | [GFG](https://www.geeksforgeeks.org/check-if-a-directed-graph-is-connected-or-not/) |   
+| GET NUMBER OF ISLANDS      | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/COUNT_NO_OF_ISLAND.PY)  | [LEETCODE](https://leetcode.com/problems/number-of-islands/submissions/) |   
+| PERFECT FRIENDS            | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PERFECT_FRIEND.PY)      | [GFG](https://www.geeksforgeeks.org/number-groups-formed-graph-friends/) |   
+| HAMILTON PATH              | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/HAMILTON_PATH.PY)       | [GFG](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) |   
+| KNIGHT TOUR                | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KNIGHT_TOUR.PY)         | [GFG](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) |   
+| BFS                        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/BSF.PY)                 | [GFG](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) |
+| SPREAD INFECTION PROBLEM   | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/SPREAD_INFECTION.PY)    | [GFG](https://www.geeksforgeeks.org/maximum-time-required-for-all-patients-to-get-infected/) |
+| IS GRAPH CYCLIC            | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CYCLIC.PY)     | [GFG](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/) |
+| IS GRAPH BIPARTITE         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_BIPARTITE.PY)  | [LEETCODE](https://leetcode.com/problems/is-graph-bipartite/) |
+| DIJSTRA'S ALGORITHM        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)           | [GFG](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/) | 
+| KRUSKAL'S ALGORITHM        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)           | [GFG](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/) |  
+| PRIM'S ALGORITHM           | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)              | [GFG](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) |  
+| FLOYD WARSHAL              | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)       | [GFG](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) |  
