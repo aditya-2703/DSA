@@ -51,97 +51,94 @@
 
 ----
 
-| Problems              | Solution                         |
-| -------------         |:-------------                   |
-| ABSOLUTE VALUE        | [ABSOLUTE_VAL.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/ABSOLUTE_VAL.PY)              |
-| ADDITION UNDER MODULE | [ADDITION_UNDER_MOD.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/ADDITION_UNDER_MOD.PY)        |   
-| CELCUISE TO FERENHITE | [CELCUISE_TO_FERENHITE.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/CELCUISE_TO_FERENHITE.PY)     | 
-| DIGIT COUNT PROBLEM   | [DIGIT_COUNT_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/DIGIT_COUNT_PROBLEM.PY)       |  
-| DIGIT IN FACTORIAL    | [DIGIT_IN_FACTORIAL.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/DIGIT_IN_FACTORIAL.PY)        |  
-| EXACTLY THREE DEVISOR | [EXACTLY_3_DIVISIOR.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/EXACTLY_3_DIVISIOR.PY)        |  
-| FIND FACOTRIAL        | [factorial.py](https://github.com/aditya-2703/DSA/blob/main/MATHS/factorial.py)                 | 
-| FIND FIBONACCI        | [fibonacci.py](https://github.com/aditya-2703/DSA/blob/main/MATHS/fibonacci.py)                 |   
-| FIND GP TURM          | [GP_TURM.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/GP_TURM.PY)                   |  
-| FIND LCM              | [LCM.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/LCM.PY)                       |    
-| MOD MUL INVERSE       | [MOD_MULTIPLICATIVE_INVERSE.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/MOD_MULTIPLICATIVE_INVERSE.PY)|  
-| PRIME NUMBER          | [PRIME.PY](https://github.com/aditya-2703/DSA/blob/main/MATHS/PRIME.PY)                     |    
+| Problems              | Solution                         | Platform |
+| :-------------        | :-------------                   | :-------------                   
+| ABSOLUTE VALUE        | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/ABSOLUTE_VAL.PY)              |     |
+| ADDITION UNDER MODULE | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/ADDITION_UNDER_MOD.PY)        |  [GFG](https://www.geeksforgeeks.org/modulo-1097-1000000007/)   |
+| CELCUISE TO FERENHITE | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/CELCUISE_TO_FERENHITE.PY)     |  [GFG](https://www.geeksforgeeks.org/python-program-to-convert-celsius-to-fahrenheit/)  |     
+| DIGIT COUNT PROBLEM   | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/DIGIT_COUNT_PROBLEM.PY)       |  [GFG](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)   |      
+| DIGIT IN FACTORIAL    | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/DIGIT_IN_FACTORIAL.PY)        |  [GFG](https://www.geeksforgeeks.org/count-digits-factorial-set-1/)   |      
+| EXACTLY THREE DEVISOR | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/EXACTLY_3_DIVISIOR.PY)        |  [GFG](https://www.geeksforgeeks.org/numbers-exactly-3-divisors/)   |      
+| FIND FACOTRIAL        | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/factorial.py)                 |  [GFG](https://www.geeksforgeeks.org/find-divisors-natural-number-set-1/)   |     
+| FIND FIBONACCI        | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/fibonacci.py)                 |  [GFG](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)   |       
+| FIND GP TURM          | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/GP_TURM.PY)                   |  [GFG](https://www.geeksforgeeks.org/find-nth-term-geometric-progression-series/)   |      
+| FIND LCM              | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/LCM.PY)                       |  [GFG](https://www.geeksforgeeks.org/program-to-find-lcm-of-two-numbers/)   |        
+| MOD MUL INVERSE       | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/MOD_MULTIPLICATIVE_INVERSE.PY)|  [GFG](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)   |      
+| PRIME NUMBER          | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/PRIME.PY)                     |  [GFG](https://www.geeksforgeeks.org/prime-numbers/)   |        
 
 ----
 # ARRAY
 
 ----
+| Problems                  | Solution                         | Platform                           |
+| :-------------            |:-------------                   | :-------------                     |
+| ARRANGE ARRAY IN O(1)     | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)                 | []() |
+| ARRAY N ROTATION          | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRAY_N_ROTATION.PY)                   | [LEETCODE](https://leetcode.com/problems/rotate-array/) |   
+| FIND EQUILIBRIAM POINT    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_EQUILIBRIAM.PY)                   | [GFG](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/) | 
+| FIND IMMIDIATE SMALLER    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_IMMIDIATE_SMALLER_X.PY)           | [GFG](https://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-element-in-an-array/) |  
+| FIND TRANSITION POINT     | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_TRANSITION_POINT.PY)              | [GFG](https://www.geeksforgeeks.org/find-transition-point-binary-array/) |  
+| FIND REPEATING ELEMENT    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIRST_REPEATING_ELE.PY)                | [GFG](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/) |  
+| LEADER IN ARRAY           | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LEADER_IN_ARRAY.PY)                    | [GFG](https://www.geeksforgeeks.org/leaders-in-an-array/) | 
+| MERGE WITHOUT EXTRA SPACE | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Merge_Without_Extra_Space.py)          | [GFG](https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/) |   
+| REMOVE DUPLICATE          | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REMOVE_DUPLI.PY)                       | [LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  
+| REVERSE ARRAY IN GROUP    | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REVERSE_ARR_IN_GROUP.PY)               | [GFG](https://www.geeksforgeeks.org/reverse-an-array-in-groups-of-given-size/) |    
+| SUBARRAY WITH GIVEN SUM   | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SUBARRAY_WITH_GIVEN_SUM.PY)            | [GFG](https://www.geeksforgeeks.org/find-subarray-with-given-sum/) |  
+| TRAPPING RAIN WATER       | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     | [LEETCODE](https://leetcode.com/problems/trapping-rain-water/) |    
+| WAVE ARRAY                | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                         | [GFG](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1) |    
+| WHO HAS A MAJORITY            | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)               | [GFG](https://www.geeksforgeeks.org/majority-element/) |    
+| DUPLICATE ZEROS               | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)                | [LEETCODE](https://leetcode.com/problems/duplicate-zeros/) |
+| DELETE ITEM FROM ARRAY        | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DELETE_ITEM_FROM_ARR.PY)           | [LEETCODE](https://leetcode.com/problems/remove-element/) |    
+| NO OF GOOD PARIS              | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/NO_OF_GOOD_PAIRS.PY)               | [LEETCODE](https://leetcode.com/problems/number-of-good-pairs/) |
+| TWO NUM SUM                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TWO_NUM_SUM.PY)                    | [LEETCODE](https://leetcode.com/problems/two-sum/) |    
+| SMALLEST DIFFERENCE           | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SMALLEST_DIFFERENCE.PY)            | [GFG](https://www.geeksforgeeks.org/smallest-difference-pair-values-two-unsorted-arrays/) |    
+| MEJORITY ELEMENT N/2 PROBLEM  | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/MAJORITY_ELEMENT.PY)               | [LEETCODE](https://leetcode.com/problems/majority-element/) |    
+| LONGEST PEAK                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LONGEST_PEAK.PY)                   | [LEETCODE](https://leetcode.com/problems/find-peak-element/) |    
+| SUM OF ALL ODD LENGTH SUBARRAY| [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Sum_of_All_Odd_Length_Subarrays.PY)| [LEETCODE](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |    
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| ARRANGE ARRAY IN O(1)     | [ARRANGE_ARRAY_0(1).PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)              |
-| ARRAY N ROTATION          | [ARRAY_N_ROTATION.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRAY_N_ROTATION.PY)        |   
-| FIND EQUILIBRIAM POINT    | [FIND_EQUILIBRIAM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_EQUILIBRIAM.PY)     | 
-| FIND IMMIDIATE SMALLER    | [FIND_IMMIDIATE_SMALLER_X.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_IMMIDIATE_SMALLER_X.PY)       |  
-| FIND TRANSITION POINT     | [FIND_TRANSITION_POINT.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIND_TRANSITION_POINT.PY)        |  
-| FIND REPEATING ELEMENT    | [FIRST_REPEATING_ELE.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/FIRST_REPEATING_ELE.PY)        |  
-| LEADER IN ARRAY           | [LEADER_IN_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LEADER_IN_ARRAY.PY)                 | 
-| MERGE WITHOUT EXTRA SPACE | [Merge_Without_Extra_Space.py](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Merge_Without_Extra_Space.py)                 |   
-| REMOVE DUPLICATE          | [REMOVE_DUPLI.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REMOVE_DUPLI.PY)                   |  
-| REVERSE ARRAY IN GROUP    | [REVERSE_ARR_IN_GROUP.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/REVERSE_ARR_IN_GROUP.PY)                       |    
-| SUBARRAY WITH GIVEN SUM   | [SUBARRAY_WITH_GIVEN_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SUBARRAY_WITH_GIVEN_SUM.PY)|  
-| TRAPPING RAIN WATER       | [TRAPPING_WATER.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TRAPPING_WATER.PY)                     |    
-| WAVE ARRAY                | [WAVE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WAVE_ARRAY.PY)                     |    
-| KADANE 1D ARRAY | [KADANE'S 1D_N.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N.py)        |  
-| KADANE 1D ARRAY   | [KADANE'S 1D_N2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N2.py)                 | 
-| KADANE 1D ARRAY| [KADANE'S 1D_N3.py](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S%201D_N3.py)                 |   
-| KADANE'S ALGORITHM FOR 2D ARRAY        | [KADANE'S.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/KADANE'S.py)                   |  
-| WHO HAS A MAJORITY        | [WHO_HAS_MAJORITY.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/WHO_HAS_MAJORITY.PY)                     |    
-| DUPLICATE ZEROS           | [DUPLICATE_ZEROS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DUPLICATE_ZEROS.PY)|
-| DELETE ITEM FROM ARRAY        | [DELETE_ITEM_FROM_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/DELETE_ITEM_FROM_ARR.PY)                     |    
-| NO OF GOOD PARIS   | [NO_OF_GOOD_PAIRS.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/NO_OF_GOOD_PAIRS.PY)|
-| TWO NUM SUM       | [TWO_NUM_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/TWO_NUM_SUM.PY)                     |    
-| SMALLEST DIFFERENCE       | [SMALLEST_DIFFERENCE.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/SMALLEST_DIFFERENCE.PY)                     |    
-| MEJORITY ELEMENT N/2 PROBLEM    | [MAJORITY_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/MAJORITY_ELEMENT.PY)                     |    
-| LONGEST PEAK     | [LONGEST_PEAK.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/LONGEST_PEAK.PY)                     |    
-| SUM OF ALL ODD LENGTH SUBARRAY    | [Sum_of_All_Odd_Length_Subarrays.PY](https://github.com/aditya-2703/DSA/blob/main/ARRAY/Sum_of_All_Odd_Length_Subarrays.PY)                     |    
+  
 
 
 ----
 # STRING 
 
 ----
-
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| ANAGRAM     | [ANAGRAM.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/ANAGRAM.PY)              |
-| BINARY CHECK          | [BINARY_CHECK.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/BINARY_CHECK.PY)        |   
-| CONVERT TO ROMAN    | [CONVERT_ROMAN.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/CONVERT_ROMAN.PY)     | 
-| ISOMORPHIC    | [ISOMORPHIC.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/ISOMORPHIC.PY)       |  
-| KMP SOLUTION     | [KMP_SOLUTION.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/KMP_SOLUTION.PY)        |  
-| LONGEST SUBSTRING WITHOUT REPEATING CHARACTER    | [LONGEST_SUBSTRING_WIHTOUT_REPE.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/LONGEST_SUBSTRING_WITHOUT_REPE.PY)        |  
-| NAIVE SOLUTION     | [NAIVE_SOLUTION.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/NAIVE_SOLUTION.PY)                 | 
-| REVERSE WORD | [REVERSE_WORD.py](https://github.com/aditya-2703/DSA/blob/main/STRING/REVERSE_WORD.PY)                 |   
-| SUM LARGE INT          | [SUM_LARGE_INT.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/SUM_LARGE_INT.PY)                   |  
-| VALIDATE IP    | [VALIDATE_IP.PY](https://github.com/aditya-2703/DSA/blob/main/STRING/VALIDATE_IP.PY)                       |    
+| Problems                                      | Solution                         | Platform                          | 
+| :-------------                                 |:-------------                    | :-------------                   |
+| ANAGRAM                                       | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/ANAGRAM.PY)                       | [LEETCODE](https://leetcode.com/problems/valid-anagram/) |
+| BINARY CHECK                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/BINARY_CHECK.PY)                  | [GFG](https://www.geeksforgeeks.org/check-binary-string-0-between-1s-not/) |   
+| CONVERT TO ROMAN                              | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/CONVERT_ROMAN.PY)                 | [GFG](https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/) | 
+| ISOMORPHIC                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/ISOMORPHIC.PY)                    | [LEETCODE](https://leetcode.com/problems/isomorphic-strings/) |  
+| KMP SOLUTION                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/KMP_SOLUTION.PY)                  | [GFG](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/) |  
+| LONGEST SUBSTRING WITHOUT REPEATING CHARACTER | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/LONGEST_SUBSTRING_WITHOUT_REPE.PY)| [LEETCODE](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  
+| NAIVE SOLUTION                                | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/NAIVE_SOLUTION.PY)                | [GFG](https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/) | 
+| REVERSE WORD                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/REVERSE_WORD.PY)                  | [GFG](https://www.geeksforgeeks.org/reverse-words-in-a-given-string/) |   
+| SUM LARGE INT                                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/SUM_LARGE_INT.PY)                 | [GFG](https://www.geeksforgeeks.org/sum-two-large-numbers/#:~:text=1%20Reverse%20both%20strings.,3%20Finally%20reverse%20the%20result.) |  
+| VALIDATE IP                                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/VALIDATE_IP.PY)                   | [GFG](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/#:~:text=A%20valid%20IP%20address%20must,25525511135%20Output%3A%20%5B%E2%80%9C255.255.) |    
 
 ----
 # STACK
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| STACK | [STACK.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/STACK.py)              |
-| STACK USING LINKED LIST         | [STACK_USING_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/STACK_USING_LINKED_LIST.PY)        |   
-| MAXIMUM RECTANGULAR AREA IN HISTOGRAM    | [Maximum_Rectangular_Area_in_a_Histogram.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Maximum_Rectangular_Area_in_a_Histogram.py)     | 
-| NEXT GREATER ELEMENT   | [Next_Greater_Element.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Next_Greater_Element.py)       |  
-| PARANTHESIS CHECKER | [Parenthesis_Checker.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Parenthesis_Checker.py)        |  
-| REVERSE A STRING USING STACK    | [Reverse_a_string_using_Stack.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Reverse_a_string_using_Stack.py)        |  
-| REVERSE A STACK USING RECURSION     | [REVERSE_STACK.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/REVERSE_STACK.PY)                 |                |   
-| EVALUATION OF POSTFIX EXPRESSION               | [Evaluation_of_Postfix_Expression.py](https://github.com/aditya-2703/DSA/blob/main/STACK/Evaluation_of_Postfix_Expression.py)                   |  
-| INFIX TO POSTFIX     | [INFIX_TO_POSTFIX.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/INFIX_TO_POSTFIX.PY)                       |    
-| REMOVE OUTERMOST PARANTHESIS     | [Remove_Outermost_Paranthesis.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/Remove_Outermost_Parentheses.py)                       | 
-| DUPLICATE PARANTHESIS     | [DUPLICATE_PARA.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/DUPLICATE_PARA.PY)                       |    
-| EASY STRING     | [EASY_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/EASY_STRING.PY)                       | 
-| MIN STACK O(N) SPACE    | [MIN_STACK_1.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_1.PY)                       |    
-| MIN STACK O(1) SPACE    | [MIN_STACK_2.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_2.PY)                       | 
-| SLIDING WINDOW MAXIMUM    | [SLIDING_WINDOW_MAX.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/SLIDING_WINDOW_MAX.PY)                       | 
-| STOCK SPAN PROBLEM    | [STOCK_SPAN.PY](https://github.com/aditya-2703/DSA/blob/main/STACK/STOCK_SPAN.PY)                       | 
+| Problems                              | Solution                         | Platform                        |
+| :-------------                        |:-------------                    |:-------------                   |
+| STACK                                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/STACK.py)                                   | []() |
+| STACK USING LINKED LIST               | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/STACK_USING_LINKED_LIST.PY)                 | [GFG](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/) |   
+| MAXIMUM RECTANGULAR AREA IN HISTOGRAM | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/Maximum_Rectangular_Area_in_a_Histogram.py) | [LEETCODE](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 
+| NEXT GREATER ELEMENT                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/Next_Greater_Element.py)                    | [GFG](https://leetcode.com/problems/next-greater-element-i/) |  
+| PARANTHESIS CHECKER                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/Parenthesis_Checker.py)                     | [LEETCODE](https://leetcode.com/problems/valid-parentheses/) |  
+| REVERSE A STRING USING STACK          | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/Reverse_a_string_using_Stack.py)            | [GFG](https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/) |  
+| REVERSE A STACK USING RECURSION       | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/REVERSE_STACK.PY)                           | [GFG](https://www.geeksforgeeks.org/reverse-stack-without-using-extra-space/) |                  
+| EVALUATION OF POSTFIX EXPRESSION      | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/Evaluation_of_Postfix_Expression.py)        | [GFG](https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/) |  
+| INFIX TO POSTFIX                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/INFIX_TO_POSTFIX.PY)                        | [GFG](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/) |    
+| REMOVE OUTERMOST PARANTHESIS          | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/Remove_Outermost_Parentheses.py)            | [LEETCODE](https://leetcode.com/problems/remove-outermost-parentheses/) | 
+| DUPLICATE PARANTHESIS                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/DUPLICATE_PARA.PY)                          | [GFG](https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/) |    
+| EASY STRING                           | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/EASY_STRING.PY)                             | [GFG](https://practice.geeksforgeeks.org/problems/easy-string2212/1) | 
+| MIN STACK O(N) SPACE                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_1.PY)                             | [LEETCODE](https://leetcode.com/problems/min-stack/) |    
+| MIN STACK O(1) SPACE                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/MIN_STACK_2.PY)                             | [LEETCODE](https://leetcode.com/problems/min-stack/) | 
+| SLIDING WINDOW MAXIMUM                | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/SLIDING_WINDOW_MAX.PY)                      | [LEETCODE](https://leetcode.com/problems/sliding-window-maximum/) | 
+| STOCK SPAN PROBLEM                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/STACK/STOCK_SPAN.PY)                              | [LEETCODE](https://leetcode.com/problems/online-stock-span/) | 
    
+
 
 
 ----
@@ -149,54 +146,52 @@
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| QUEUE   | [QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/QUEUE.PY)              |
-| QUEUE WITH LINKED LIST    | [QUEUE_WITH_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/QUEUE_WITH_LINKED_LIST.PY)        |   
-| CIRCULAR QUEUE| [CIRCULAR_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/CIRCULAR_QUEUE.PY)     | 
-| PRIORITY QUEUE| [PRIORITY_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/PRIORITY_QUEUE.py)       |  
-| DOUBLE ENDED QUEUE | [DOUBLE_ENDED_QUEUE.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/DOUBLE_ENDED_QUEUE.PY)
-| SLIDING WINDOW MAXIMUM | [SLIDING_WINDOW_MAX.PY](https://github.com/aditya-2703/DSA/blob/main/QUEUE/SLIDING_WINDOW_MAX.PY)
+| Problems                  | Solution                         | Platform           |
+| :-------------             |:-------------                   | :-------------     |
+| QUEUE                     | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/QUEUE.PY)                   | []() |
+| QUEUE WITH LINKED LIST    | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/QUEUE_WITH_LINKED_LIST.PY)  | [GFG](https://www.geeksforgeeks.org/queue-linked-list-implementation/) |   
+| CIRCULAR QUEUE            | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/CIRCULAR_QUEUE.PY)          | [GFG](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/#:~:text=Circular%20Queue%20is%20a%20linear,also%20called%20'Ring%20Buffer'.&text=In%20a%20circular%20queue%2C%20the,always%20inserted%20at%20Rear%20position.) | 
+| PRIORITY QUEUE            | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/PRIORITY_QUEUE.py)          | [GFG](https://www.geeksforgeeks.org/priority-queue-set-1-introduction/) |  
+| DOUBLE ENDED QUEUE        | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/DOUBLE_ENDED_QUEUE.PY)      | [GFG](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/) |
+| SLIDING WINDOW MAXIMUM    | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/SLIDING_WINDOW_MAX.PY)      | [GFG](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
 
 ----
 # MATRIX 
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| ADDITION OF TWO MATRIX     | [ADDITION_TWO_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/ADDITION_TWO_MAT.PY)              |
-| BOOLEAN MATRIX| [BOOLEAN_MATRIX.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/BOOLEAN_MATRIX.PY)        |   
-| DETERMINATION OF TWO MATRIX    | [DETERMINATION_TWO_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/DETERMINATION_TWO_MAT.PY)     | 
-| MATRIX MULTIPLICATION | [matrix_mul.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/matrix_mul.py)       |  
-| MAXIMUM IN HISTOGRAM | [MAX_IN_HISTOGRAM.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/MAX_IN_HISTOGRAM.PY)        |  
-| MAX SUM OF 1'S    | [MAX_SUM_1'S.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/MAX_SUM_1'S.PY)        |  
-| MULTIPLICATION OF TWO MATRIX    | [MUL_TWO_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/MUL_TWO_MAT.PY)                 | 
-| ROTATE MATRIX 90 DEGREE | [ROTATE_90_DEG.py](https://github.com/aditya-2703/DSA/blob/main/MATRIX/ROTATE_90_DEG.PY)                 |   
-| SEARCH IN MATRIX          | [SEARCH_IN_MATRIX.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/SEARCH_IN_MATRIX.PY)                   |  
-| SPIRAL TRAVERSAL IN MATRIX | [SPIRAL_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/SPIRAL_TRAVERSAL.PY)                       |    
-| TRANSPOSE OF MATRIX | [TRANSPOSE_MATRIX.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/TRANSPOSE_MATRIX.PY)                       |    
+| Problems                       | Solution                         | Platform                   |
+| :-------------                 |:-------------                   | :-------------             |
+| ADDITION OF TWO MATRIX         | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/ADDITION_TWO_MAT.PY)     | [GFG](https://www.geeksforgeeks.org/program-addition-two-matrices/) |
+| BOOLEAN MATRIX                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/BOOLEAN_MATRIX.PY)       | [GFG](https://www.geeksforgeeks.org/a-boolean-matrix-question/) |   
+| DETERMINATION OF TWO MATRIX    | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/DETERMINATION_TWO_MAT.PY)| [GFG](https://www.geeksforgeeks.org/determinant-of-a-matrix/) | 
+| MAX SUM OF 1'S                 | [Solution.PY](https://github.com/aditya-2703/DSA/blob/main/MATRIX/MAX_SUM_1'S.PY)       | [GFG](https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/) |  
+| MULTIPLICATION OF TWO MATRIX   | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/MUL_TWO_MAT.PY)          | [GFG](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/) | 
+| ROTATE MATRIX 90 DEGREE        | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/ROTATE_90_DEG.PY)        | [GFG](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/) |   
+| SEARCH IN MATRIX               | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/SEARCH_IN_MATRIX.PY)     | [LEETCODE](https://leetcode.com/problems/search-a-2d-matrix/) |  
+| SPIRAL TRAVERSAL IN MATRIX     | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/SPIRAL_TRAVERSAL.PY)     | [LEETCODE](https://leetcode.com/problems/spiral-matrix/) |    
+| TRANSPOSE OF MATRIX            | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/TRANSPOSE_MATRIX.PY)     | [GFG](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/) |    
 
 ----
 # LINKED LIST 
 
 ----
-
-| Problems                  | Solution                         |
-| -------------             |:-------------                 |
-| LINKED LIST     | [LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/LINKED_LIST.py)              |
-| DOUBLY LINKED LIST          | [DOUBLY_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/DOUBLY_LINKED_LIST.py)        |   
-| CIRCULAR LINKED LIST  | [CIRCULAR_SINGLY_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/CIRCULAR_SINGLY_LINKED_LIST.py)     | 
-| CIRCULAR DOUBLY LINKED LIST  | [CIRCULAR_DOUBLY_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/CIRCULAR_DOUBLY_LINKED_LIST.PY)     | 
-| DELETE ALTERNATE NODE IN LINKED LIST  | [DELETE_ALTERNATE_NODE.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/DELETE_ALTERNATE_NODE.PY)     | 
-| REVERSE A LINKED LIST| [REVERSELINKEDLIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/REVERSELINKEDLIST.py)       |  
-| ROTATE A LINKED LIST IN K TIMES | [ROTATE_A_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/ROTATE_A_LINKED_LIST.PY)       |  
-| REMOVE DUPLICATE FROM SORTED LINKED LIST  | [REMOVE_DUPLICATE_FROM_SORTED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/REMOVE_DUPLICATE_FROM_SORTED_LIST.PY)       |  
-| FIND THE SOME OF LAST N NODE OF LINKED  LIST | [FIND_THE _SUM_OF_LAST_N_NODED_OF_THE_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/FIND_THE%20_SUM_OF_LAST_N_NODED_OF_THE_LINKED_LIST.PY)        |  
-| VALIDATE PALINDROME LINKED LIST| [PALINDROME_LINKED_LIST.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/PALINDROME_LINKED_LIST.PY)        |  
-| DETECT CYCLE IN LINKED LIST| [LINKED_LIST_CYCLE.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/LINKED_LIST_CYCLE.PY)        |  
-| PAIR SWAP| [PAIR_SWAP.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/PAIR_SWAP.PY)        |  
-| MERGED  TWO SORTED LINKED LIST    | [MERGED_TWO_SORTED_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/MERGED_TWO_SORTED_ARR.PY)        |  
+| Problems                                     | Solution                      | Platform                                       |
+| :-------------                                |:-------------                 | :-------------                                | 
+| LINKED LIST                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/LINKED_LIST.py)                                          | [GFG](https://www.geeksforgeeks.org/linked-list-set-1-introduction/) |
+| DOUBLY LINKED LIST                           | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/DOUBLY_LINKED_LIST.py)                                   | [GFG](https://www.geeksforgeeks.org/doubly-linked-list/) |   
+| CIRCULAR LINKED LIST                         | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/CIRCULAR_SINGLY_LINKED_LIST.py)                          | [GFG](https://www.geeksforgeeks.org/circular-singly-linked-list-insertion/) | 
+| CIRCULAR DOUBLY LINKED LIST                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/CIRCULAR_DOUBLY_LINKED_LIST.PY)                          | [GFG](https://www.geeksforgeeks.org/doubly-circular-linked-list-set-1-introduction-and-insertion/) | 
+| DELETE ALTERNATE NODE IN LINKED LIST         | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/DELETE_ALTERNATE_NODE.PY)                                | [GFG](https://www.geeksforgeeks.org/delete-alternate-nodes-of-a-linked-list/) | 
+| FIND MID NODE IN LINKED LIST                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/GET_MIDDLE_IN_LL.PY)                                     | [LEETCODE](https://leetcode.com/problems/middle-of-the-linked-list/) | 
+| REVERSE A LINKED LIST                        | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/REVERSELINKEDLIST.py)                                    | [LEETCODE](https://leetcode.com/problems/reverse-linked-list/) |  
+| ROTATE A LINKED LIST IN K TIMES              | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/ROTATE_A_LINKED_LIST.PY)                                 | [LEETCODE](https://leetcode.com/problems/rotate-list/) |  
+| REMOVE DUPLICATE FROM SORTED LINKED LIST     | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/REMOVE_DUPLICATE_FROM_SORTED_LIST.PY)                    | [LEETCODE](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  
+| FIND THE SOME OF LAST N NODE OF LINKED  LIST | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/FIND_THE%20_SUM_OF_LAST_N_NODED_OF_THE_LINKED_LIST.PY) | [GFG](https://www.geeksforgeeks.org/find-sum-last-n-nodes-given-linked-list/) |  
+| VALIDATE PALINDROME LINKED LIST              | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/PALINDROME_LINKED_LIST.PY)                               | [LEETCODE](https://leetcode.com/problems/palindrome-linked-list/) |  
+| DETECT CYCLE IN LINKED LIST                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/LINKED_LIST_CYCLE.PY)                                    | [LEETCODE](https://leetcode.com/problems/linked-list-cycle/) |  
+| PAIR SWAP                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/PAIR_SWAP.PY)                                            | [LEETCODE](https://leetcode.com/problems/swap-nodes-in-pairs/) |  
+| MERGED  TWO SORTED LINKED LIST               | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/MERGED_TWO_SORTED_ARR.PY)                                | [LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/) |  
 
 ----
 # RECURSION
@@ -204,223 +199,215 @@
 ----
 
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| FIND  STRING LENGTH    | [STR_LEN.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_LEN.PY)                 | 
-| DELETE X FROM STRING     | [STR_DEL_X.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_DEL_X.PY)                 | 
-| REPLACE X WITH Y IN STRING    | [STR_REPLACE_X.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_OF_N_NATURAL_NO.PY)       | 
-| REMOVE CONSICUTIVE DUPLICATES    | [REMOVE_CONSICUTIVE_DUPLICATES.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/REMOVE_CONSICUTIVE_DUPLICATES.PY) | 
-| SUM OF NATURAL NUMBERS    | [SUM_OF_N_NATURAL_NO.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_OF_N_NATURAL_NO.PY)                 | 
-| FINDING EXPONENSIAL     | [EXPONENSIAL.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/EXPONENSIAL.PY)              |
-| FIND NO OF WAYS IN MATRIX    | [FIND_NO_OF_WAYS_IN_NxM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/FIND_NO_OF_WAYS_IN_NxM.PY)        |   
-| JOSEPHUS PROBLEM | [JOSEPHUS_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/JOSEPHUS_PROBLEM.PY)     | 
-| CHECKING PALINDROME STRING | [PALINDROME_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PALINDROME_STRING.PY)       |  
-| PRINT ALL PERMUTATIONS OF STRING     | [PRINT_ALL_PERMUTATION_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_ALL_PERMUTATION_GIVEN_STRING.PY)  |  
-| PRINT SUBSEQUENCES OF STRING    | [PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY)        | 
-| REVERSE A STRING USING RECURSION    | [REVERSE_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/REVERSE_STRING.PY)        |  
-| SUBSETS OF TARGETSUM    | [SUBSETS_OF_TARGETSUM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUBSETS_OF_TARGETSUM.PY)        |  
-| ALL POSSIBLE STAIR CASE    | [STAIR_CASE.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STAIR_CASE.PY)        |  
-| SPECIAL FIBONACCI    | [SPECIAL_FIBO.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SPECIAL_FIBO.PY)        |  
-| FIND FIRST UPPERCASE    | [FIND_FIRST_UPPER.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/FIND_FIRST_UPPER.PY)        |  
-| GET MAXIMUM AND MINIMUM    | [GET_MAX_MIN.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/GET_MAX_MIN.PY)        |  
-| SUM TRIANGULAR ARRAY    | [SUM_TRIA_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_TRIA_ARR.PY)        |  
-| COMBINATION SUM    | [COMBINATIONS_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/COMBINATIONS_SUM.PY)        |  
-| WORD SEARCH    | [WORD_SEARCH.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/WORD_SEARCH.PY)        |  
-| EXPLORE ALL POSSIBLE MAZE PATH   | [MAZE_FINDING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FINDING.PY)        |  
-| EXPLORE ALL POSSIBLE MAZE PATH WITH JUMP    | [MAZE_FIND_WITH_JUMP.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FIND_WITH_JUMP.PY)        |  
-| KEYPAD COMBINATIONS    | [KEYPAD_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/KEYPAD_COMBINATIONS.PY)        |  
-
+| Problems                                    | Solution                        | Platform                  |
+| :-------------                              |:-------------                   | :-------------            |       
+| FIND  STRING LENGTH                         | [STR_LEN.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_LEN.PY)                                                      | [GFG](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) | 
+| DELETE X FROM STRING                        | [STR_DEL_X.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STR_DEL_X.PY)                                                  | [GFG](https://www.geeksforgeeks.org/remove-all-occurrences-of-a-character-in-a-string-recursive-approach/) | 
+| REPLACE X WITH Y IN STRING                  | [STR_REPLACE_X.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_OF_N_NATURAL_NO.PY)                                    | [GFG](https://www.geeksforgeeks.org/replace-all-occurrences-of-character-x-with-character-y-in-given-string/) | 
+| REMOVE CONSICUTIVE DUPLICATES               | [REMOVE_CONSICUTIVE_DUPLICATES.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/REMOVE_CONSICUTIVE_DUPLICATES.PY)          | [GFG](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) | 
+| SUM OF NATURAL NUMBERS                      | [SUM_OF_N_NATURAL_NO.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUM_OF_N_NATURAL_NO.PY)                              | [GFG](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) | 
+| FINDING EXPONENSIAL                         | [EXPONENSIAL.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/EXPONENSIAL.PY)                                              | [GFG](https://www.geeksforgeeks.org/python-program-to-find-the-power-of-a-number-using-recursion/) |
+| FIND NO OF WAYS IN MATRIX                   | [FIND_NO_OF_WAYS_IN_NxM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/FIND_NO_OF_WAYS_IN_NxM.PY)                        | [GFG](https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/) |   
+| JOSEPHUS PROBLEM                            | [JOSEPHUS_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/JOSEPHUS_PROBLEM.PY)                                    | [GFG](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/) | 
+| CHECKING PALINDROME STRING                  | [PALINDROME_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PALINDROME_STRING.PY)                                  | [GFG](https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/) |  
+| PRINT ALL PERMUTATIONS OF STRING            | [PRINT_ALL_PERMUTATION_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_ALL_PERMUTATION_GIVEN_STRING.PY)| [GFG](https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/) |  
+| PRINT SUBSEQUENCES OF STRING                | [PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/PRINT_SUBSEQUENCE_OF_GIVEN_STRING.PY)  | [GFG](https://www.geeksforgeeks.org/print-subsequences-string/) | 
+| REVERSE A STRING USING RECURSION            | [REVERSE_STRING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/REVERSE_STRING.PY)                                        | [GFG](https://www.geeksforgeeks.org/reverse-a-string-using-recursion/) |  
+| SUBSETS OF TARGETSUM                        | [SUBSETS_OF_TARGETSUM.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SUBSETS_OF_TARGETSUM.PY)                            | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) |  
+| ALL POSSIBLE STAIR CASE                     | [STAIR_CASE.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/STAIR_CASE.PY)                                                | [LEETCODE](https://leetcode.com/problems/climbing-stairs/) |  
+| SPECIAL FIBONACCI                           | [SPECIAL_FIBO.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/SPECIAL_FIBO.PY)                                            | [CODECHEF](https://www.codechef.com/problems/FIBXOR01) |  
+| EXPLORE ALL POSSIBLE MAZE PATH              | [MAZE_FINDING.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FINDING.PY)                                            | [GFG](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/) |  
+| EXPLORE ALL POSSIBLE MAZE PATH WITH JUMP    | [MAZE_FIND_WITH_JUMP.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FIND_WITH_JUMP.PY)                              | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-maze-path-with-jumps-official/ojquestion) |  
+| KEYPAD COMBINATIONS                         | [KEYPAD_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/KEYPAD_COMBINATIONS.PY)                              | [LEETCODE](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  
 
 ----
 # HASHMAP
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| AFTER COLLISION HASHING   | [ACO_HASH_FUNCTION.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/ACO_HASH_FUNCTION.PY)                 | 
-| BEFORE COLLISION HASHING | [BCO_HASH_FUNCTION.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/BCO_HASH_FUNCTION.PY)              |
-| COUNT DISTINCT ELEMENT IN EVERY WINDOW    | [Count_distinct_elements_in_every_window.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Count_distinct_elements_in_every_window.py)        |   
-| INTERSECTION OF TWO SORTED ARRAY | [INTERSECTION_OF_2_SORTED_ARR.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/INTERSECTION_OF_2_SORTED_ARR.py)     | 
-| LONGEST CONSICUTIVE | [LONGEST_CONSICUTIVE.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/LONGEST_CONSICUTIVE.PY)       |  
-| LONGEST SUBARRAY WITH ZERO SUM     | [LONGEST_SUBARR_0_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/LONGEST_SUBARR_0_SUM.PY)        |  
-| MAXIMUM DISTANCE BETWEEN SAME ELEMENT    | [MAX_DIS_BET_SAME_ELE.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/MAX_DIS_BET_SAME_ELE.PY)        |  
-| NON REPEAT     | [NON_REPEAT.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/NON_REPEAT.PY)        |  
-| SORTING ELEMENT OF AN ARRAY BY FREQUENCY    | [Sorting_Elements_of_an_Array_by_Frequency.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Sorting_Elements_of_an_Array_by_Frequency.py)        |  
-| TOP K FREQUENT ELEMENT IN ARRAY     | [Top_k_Frequent_Elements_in_Array.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Top_K_Frequent_Elements_in_Array.py)        |  
-| IS TWO ARRAY SAME OR NOT     | [TWO_ARR_SAME_OR_NOT.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/TWO_ARR_SAME_OR_NOT.PY)        |  
-| TWO SUM     | [TWO_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/TWO_SUM.PY)        |  
+| Problems                                  | Solution                         | Platform        |
+| :-------------                            |:-------------                    | :-------------  |                 
+| AFTER COLLISION HASHING                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/ACO_HASH_FUNCTION.PY)                         | [GFG](https://www.geeksforgeeks.org/implementing-our-own-hash-table-with-separate-chaining-in-java/) | 
+| BEFORE COLLISION HASHING                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/BCO_HASH_FUNCTION.PY)                         | [GFG](https://www.geeksforgeeks.org/implementing-our-own-hash-table-with-separate-chaining-in-java/) |
+| COUNT DISTINCT ELEMENT IN EVERY WINDOW    | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Count_distinct_elements_in_every_window.py)   | [GFG](https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/) |   
+| INTERSECTION OF TWO SORTED ARRAY          | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/INTERSECTION_OF_2_SORTED_ARR.py)              | [GFG](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/) | 
+| LONGEST CONSICUTIVE                       | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/LONGEST_CONSICUTIVE.PY)                       | [LEETCODE](https://leetcode.com/problems/longest-consecutive-sequence/) |  
+| LONGEST SUBARRAY WITH ZERO SUM            | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/LONGEST_SUBARR_0_SUM.PY)                      | [LEETCODE](https://leetcode.com/problems/maximum-subarray/) |  
+| MAXIMUM DISTANCE BETWEEN SAME ELEMENT     | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/MAX_DIS_BET_SAME_ELE.PY)                      | [GFG](https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/#:~:text=A%20simple%20solution%20for%20this,is%20O(n2).) |  
+| NON REPEAT                                | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/NON_REPEAT.PY)                                | [GFG](https://www.geeksforgeeks.org/non-repeating-element/) |  
+| SORTING ELEMENT OF AN ARRAY BY FREQUENCY  | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Sorting_Elements_of_an_Array_by_Frequency.py) | [LEETCODE](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |  
+| TOP K FREQUENT ELEMENT IN ARRAY           | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/Top_K_Frequent_Elements_in_Array.py)          | [GFG](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/) |  
+| IS TWO ARRAY SAME OR NOT                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/HASHMAP/TWO_ARR_SAME_OR_NOT.PY)                       | [GFG](https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/#:~:text=Two%20arrays%20are%20said%20to,two%20arrays%20to%20be%20equal.) |  
+
+
 
 ----
 # SORTING
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| BUBBLE SORT     | [bubble.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/bubble.py)              |
-| INSERTION SORT          | [insertion.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/insertion.py)        |   
-| SELECTION SORT    | [selection.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/selection.py)     | 
-| SHELL SORT | [shell.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/shell.py)       |  
-| QUICK SORT     | [quick.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/quick.py)        |  
-| MERGE SORT    | [merge.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/merge.py)        |  
-| REDIX SORT     | [redix.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/redix.py)                 | 
-| BUCKET SORT | [bucket.py](https://github.com/aditya-2703/DSA/blob/main/sorting/bucket.py)                 |   
-| COUNTING SORT          | [count.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/count.py)                   |  
-| HEAP SORT    | [heap.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/heap.py)                       |  
-| MINIMUM SWAP TO SORT A ARRAY     | [MINIMUM_SWAP_TO_SORT.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/MINIMUM_SWAP_TO_SORT.PY)                 | 
-| MINIMUM SWAP | [MIN_SWAP.py](https://github.com/aditya-2703/DSA/blob/main/sorting/MIN_SWAP.PY)                 |   
-| SORT 0 1 2 IN ARRAY    | [SORT_0_1_2.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/SORT_0_1_2.PY)                   |  
-| UNION OR TWO SORTED ARRAY| [UNION_2_SORTED_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/sorting/UNION_2_SORTED_ARRAY.PY)                       |  
+| Problems                      | Solution                         | Platform                        |
+| :-------------                |:-------------                   | :-------------                   |
+| BUBBLE SORT                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/bubble.py)               | [GFG](https://www.geeksforgeeks.org/bubble-sort/) |
+| INSERTION SORT                | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/insertion.py)            | [GFG](https://www.geeksforgeeks.org/insertion-sort/) |   
+| SELECTION SORT                | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/selection.py)            | [GFG](https://www.geeksforgeeks.org/selection-sort/) | 
+| SHELL SORT                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/shell.py)                | [GFG](https://www.geeksforgeeks.org/shellsort/) |  
+| QUICK SORT                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/quick.py)                | [GFG](https://www.geeksforgeeks.org/quick-sort/) |  
+| MERGE SORT                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/merge.py)                | [GFG](https://www.geeksforgeeks.org/merge-sort/) |  
+| REDIX SORT                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/redix.py)                | [GFG](https://www.geeksforgeeks.org/radix-sort/) | 
+| BUCKET SORT                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/bucket.py)               | [GFG](https://www.geeksforgeeks.org/bucket-sort-2/) |   
+| COUNTING SORT                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/count.py)                | [GFG](https://www.geeksforgeeks.org/counting-sort/) |  
+| HEAP SORT                     | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/heap.py)                 | [GFG](https://www.geeksforgeeks.org/heap-sort/) |  
+| MINIMUM SWAP TO SORT A ARRAY  | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/MINIMUM_SWAP_TO_SORT.PY) | [GFG](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/) | 
+| MINIMUM SWAP                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/MIN_SWAP.PY)             | [GFG](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) |   
+| SORT 0 1 2 IN ARRAY           | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/SORT_0_1_2.PY)           | [LEETCODE](https://leetcode.com/problems/sort-colors/) |  
+| UNION OR TWO SORTED ARRAY     | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/UNION_2_SORTED_ARRAY.PY) | [GFG](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/) |  
 
 ----
 # SEARCHING
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| LINEAR SEARCH     | [linear_search.PY](https://github.com/aditya-2703/DSA/blob/main/searching/linear_search.py)              |
-| BINARY SEARCH      | [binary_search.PY](https://github.com/aditya-2703/DSA/blob/main/searching/binary_search.py)        |   
-| TERNARY SEARCH    | [TERNARY_SEARCH.PY](https://github.com/aditya-2703/DSA/blob/main/searching/TERNARY_SEARCH.PY)     | 
-| SEARCH SORTED ROTATED ARRAY| [SEARCH_SORTED_ROTATE_ARRAY.PY](https://github.com/aditya-2703/DSA/blob/main/searching/SEARCH_SORTED_ROTATE_ARRAY.PY)       |  
-| SEARCH MINIMUM PLATFORMS   | [SEARCH_Minimum_Platforms.PY](https://github.com/aditya-2703/DSA/blob/main/searching/SEARCH_Minimum_Platforms.py)        |  
-| SEARCH PEAK ELEMENT    | [PEAK_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/searching/PEAK_ELEMENT.PY)        |  
-| SEARCH MISSING REPEATING VALUE     | [FIND_MISSING_REPEATING_NO.PY](https://github.com/aditya-2703/DSA/blob/main/searching/FIND_MISSING_REPEATING_NO.PY)                 | 
-| SEARCH MEDIAN OF TWO SORTED ARRAY| [MEDIAN_TWO_SORTED_ARR.py](https://github.com/aditya-2703/DSA/blob/main/searching/MEDIAN_TWO_SORTED_ARR.PY)                 |   
+| Problems                           | Solution                         | Platform                         |
+| :-------------                      |:-------------                   | :-------------                   |
+| LINEAR SEARCH                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/linear_search.py)              | [GFG](https://www.geeksforgeeks.org/linear-search/) |
+| BINARY SEARCH                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/binary_search.py)              | [GFG](https://www.geeksforgeeks.org/binary-search/) |   
+| TERNARY SEARCH                     | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/TERNARY_SEARCH.PY)             | [GFG](https://www.geeksforgeeks.org/ternary-search/) | 
+| SEARCH SORTED ROTATED ARRAY        | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/SEARCH_SORTED_ROTATE_ARRAY.PY) | [LEETCODE](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  
+| SEARCH MINIMUM PLATFORMS           | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/SEARCH_Minimum_Platforms.py)   | [GFG](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/) |  
+| SEARCH PEAK ELEMENT                | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/PEAK_ELEMENT.PY)               | [LEETCODE](https://leetcode.com/problems/find-peak-element/) |  
+| SEARCH MISSING REPEATING VALUE     | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/FIND_MISSING_REPEATING_NO.PY)  | [GFG](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) | 
+| SEARCH MEDIAN OF TWO SORTED ARRAY  | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/MEDIAN_TWO_SORTED_ARR.PY)      | [GFG](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) |   
 
 ----
 # TREE
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| TREE CREATION     | [TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/TREE_CREATION.PY)              |
-| GENERIC TREE CREATION | [CONSTRUCTION_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/CONSTRUCTION_GENERIC_TREE.PY)        |   
-| GENERIC TREE CREATION 2.0 | [CONSTRUCTION_GENERIC_TREE2_2.0.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/CONSTRUCTION_GENERIC_TREE2_2.0.PY)       |   
-| DEPTHWISE GENERIC TREE TRAVERSAL | [DEPTH_GENERIC_TREE_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/DEPTH_GENERIC_TREE_TRAVERSAL.PY)        |   
-| LEVELWISE GENERIC TREE TRAVERSAL | [LEVEL_GENERIC_TREE_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEVEL_GENERIC_TREE_TRAVERSAL.PY)        |   
-| LEVEL LINEWISE GENERIC TREE TRAVERSAL | [LEVEL_LINEWISE_TREE_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEVEL_LINEWISE_TREE_TRAVERSAL.PY)        |   
-| ZIG ZAG LINEWISE GENERIC TREE TRAVERSAL | [ZIG_ZAG_TRAVERSAL.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/ZIG_ZAG_TRAVERSAL.PY)        |   
-| MIRROR OF GENERIC TREE | [MIRROR_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MIRROR_GENERIC_TREE.PY)        |   
-| MAXIMUM NODE FROM TREE | [MAX_FROM_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_FROM_TREE.PY)        |   
-| LINEARIZE GENERIC TREE | [LINEARIZE_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LINEARIZE_GENERIC_TREE.PY)        |   
-| FIND ELEMENT IN GENERIC TREE | [FIND_ELEMENT_IN_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/FIND_ELEMENT_IN_GENERIC_TREE.PY)        |   
-| REMOVE LEAF NODES IN GENERIC TREE | [REM_LEAF_IN_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/REM_LEAF_IN_GENERIC_TREE.PY)        |   
-| NODE TO ROOT PATH GENERIC TREE | [NODE_TO_ROOT_PATH_GENERIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH_GENERIC_TREE.PY)        |   
-| LOWEST COMMON ANCESTOR IN GENERIC TREE| [LOWEST_COMMON_ANCESTOR_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LOWEST_COMMON_ANCESTOR_GENERIC.PY)        |   
-| DIFFERENCE BETWEEN TWO NODE IN GENERIC TREE | [DIFFERENCE_BET_TWO_NODE_GENERIC.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/DIFFERENCE_BET_TWO_NODE_GENERIC.PY)        | 
-| CEIL AND FLOOR OF GIVEN VALUE IN GENERIC TREE| [CEIL_AND_FLOOR.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/CEIL_AND_FLOOR.PY)        | 
-| GET DIAMETER IN GENERIC TREE | [GET_DIAMETER_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/GET_DIAMETER_TREE.PY)        | 
-| GET SUCCESSOR-PREDESESSOR IN GENERIC TREE | [GET_SUCCESSOR_PREDESESSOR.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/GET_SUCCESSOR_PREDESESSOR.PY)        | 
-| IS SAME SHAPE WITH MIRROR TREE IN GENERIC TREE | [IS_SAME_SHAPE_WITH_MIRROR.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SAME_SHAPE_WITH_MIRROR.PY)        | 
-| IS SAME IN SHAPE IN GENERIC TREE | [IS_SAME_SHAPE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SAME_SHAPE.PY)        | 
-| IS SYMETRIC IN GENERIC TREE | [IS_SYMETRIC_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SYMETRIC_TREE.PY)        | 
-| K TH LARGEST ELEMENT IN GENERIC TREE | [K_TH_LARGEST_ELEMENT.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/K_TH_LARGEST_ELEMENT.PY)        | 
-| MAX SUBTREE SUM IN GENERIC TREE | [MAX_SUBTREE_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_SUBTREE_SUM.PY)        | 
-| BINARY TREE CREATION     | [BINARY_TREE_CREATION.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.PY)     | 
-| BINARY_TREE             | [BINARY_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)     | 
-| BRANCH SUM BINARY TREE             | [BRANCH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/BRANCH_SUM.PY)     | 
-| LEFT CLONE TREE BINARY TREE             | [LEFT_CLONE_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/LEFT_CLONE_TREE.PY)     | 
-| NODE TO ROOT PATH BINARY TREE             | [NODE_TO_ROOT_PATH.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH.PY)     | 
-| PATH SUM BINARY TREE             | [PATH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/PATH_SUM.PY)     | 
-| PRINT K LEVEL DOWN BINARY TREE             | [PRINT_K_LEVEL_DOWN.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/PRINT_K_LEVEL_DOWN.PY)     | 
-| REMOVE SINGLE CHILD BINARY TREE             | [REMOVE_SINGLE_CHILD.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/REMOVE_SINGLE_CHILD.PY)     | 
-| AVL TREE    | [AVL_TREE.PY](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)       |  
-
+| Problems                  | Solution                         | Platform                    |
+| :-------------             |:-------------:                   | :-------------             |
+| TREE CREATION                           | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/TREE_CREATION.PY)                         | [GFG](https://www.geeksforgeeks.org/generic-tree-level-order-traversal/) |
+| GENERIC TREE CREATION                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/CONSTRUCTION_GENERIC_TREE.PY)             | [GFG](https://www.geeksforgeeks.org/generic-tree-level-order-traversal/) |   
+| GENERIC TREE CREATION 2.0               | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/CONSTRUCTION_GENERIC_TREE2_2.0.PY)        | [GFG](https://www.geeksforgeeks.org/generic-tree-level-order-traversal/) |   
+| DEPTHWISE GENERIC TREE TRAVERSAL        | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/DEPTH_GENERIC_TREE_TRAVERSAL.PY)          | [GFG](https://www.geeksforgeeks.org/dfs-n-ary-tree-acyclic-graph-represented-adjacency-list/) |   
+| LEVELWISE GENERIC TREE TRAVERSAL        | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/LEVEL_GENERIC_TREE_TRAVERSAL.PY)          | [GFG](https://www.geeksforgeeks.org/generic-tree-level-order-traversal/) |   
+| LEVEL LINEWISE GENERIC TREE TRAVERSAL   | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/LEVEL_LINEWISE_TREE_TRAVERSAL.PY)         | [GFG](https://www.geeksforgeeks.org/level-order-traversal-line-line-set-3-using-one-queue/) |   
+| ZIG ZAG LINEWISE GENERIC TREE TRAVERSAL | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/ZIG_ZAG_TRAVERSAL.PY)                     | [GFG](https://www.geeksforgeeks.org/zigzag-tree-traversal/) |   
+| MIRROR OF GENERIC TREE                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/MIRROR_GENERIC_TREE.PY)                   | [GFG](https://www.geeksforgeeks.org/mirror-of-n-ary-tree/) |   
+| MAXIMUM NODE FROM TREE                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_FROM_TREE.PY)                         | [GFG](https://www.geeksforgeeks.org/largest-element-in-an-n-ary-tree/) |   
+| LINEARIZE GENERIC TREE                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/LINEARIZE_GENERIC_TREE.PY)                | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/linearize-generic-tree-official/ojquestion) |   
+| FIND ELEMENT IN GENERIC TREE            | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/FIND_ELEMENT_IN_GENERIC_TREE.PY)          | [GFG](https://www.geeksforgeeks.org/generic-treesn-array-trees/) |   
+| REMOVE LEAF NODES IN GENERIC TREE       | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/REM_LEAF_IN_GENERIC_TREE.PY)              | [GFG](https://www.geeksforgeeks.org/remove-all-leaf-nodes-from-a-generic-tree-or-n-ary-tree/) |   
+| NODE TO ROOT PATH GENERIC TREE          | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH_GENERIC_TREE.PY)        | [GFG](https://www.geeksforgeeks.org/find-the-path-from-root-to-the-given-nodes-of-a-tree-for-multiple-queries/) |   
+| LOWEST COMMON ANCESTOR IN GENERIC TREE  | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/LOWEST_COMMON_ANCESTOR_GENERIC.PY)        | [GFG](https://www.geeksforgeeks.org/lca-for-general-or-n-ary-trees-sparse-matrix-dp-approach-onlogn-ologn/) |   
+| DIFFERENCE BETWEEN TWO NODE IN GENERIC TREE   | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/DIFFERENCE_BET_TWO_NODE_GENERIC.PY) | [GFG](https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/) | 
+| CEIL AND FLOOR OF GIVEN VALUE IN GENERIC TREE | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/CEIL_AND_FLOOR.PY)                  | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/ceil-and-floor-official/ojquestion) | 
+| GET DIAMETER IN GENERIC TREE                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/GET_DIAMETER_TREE.PY)               | [GFG](https://www.geeksforgeeks.org/diameter-n-ary-tree/) | 
+| GET SUCCESSOR-PREDESESSOR IN GENERIC TREE     | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/GET_SUCCESSOR_PREDESESSOR.PY)       | [GFG](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/pred-succ-generic-tree-official/ojquestion) | 
+| IS SAME SHAPE WITH MIRROR TREE IN GENERIC TREE| [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SAME_SHAPE_WITH_MIRROR.PY)       | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/are-trees-mirror-in-shape-official/ojquestion) | 
+| IS SAME IN SHAPE IN GENERIC TREE              | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SAME_SHAPE.PY)                   | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/are-generic-trees-similar-official/ojquestion) | 
+| IS SYMETRIC IN GENERIC TREE                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/IS_SYMETRIC_TREE.PY)                | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/is-generic-tree-symmetric-official/ojquestion) | 
+| K TH LARGEST ELEMENT IN GENERIC TREE          | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/K_TH_LARGEST_ELEMENT.PY)            | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/generic-tree/kth_largest_element_generic_tree/topic) |  
+| MAX SUBTREE SUM IN GENERIC TREE               | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/MAX_SUBTREE_SUM.PY)                 | [GFG](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/) | 
+| BINARY TREE CREATION                          | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE_CREATION.PY)            | [GFG](https://www.geeksforgeeks.org/linked-complete-binary-tree-its-creation/#:~:text=To%20create%20a%20linked%20complete,node%20in%20Complete%20Binary%20Tree.) | 
+| BINARY_TREE                                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/BINARY_TREE.py)                     | []() | 
+| BRANCH SUM BINARY TREE                        | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/BRANCH_SUM.PY)                      | []() | 
+| LEFT CLONE TREE BINARY TREE                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/LEFT_CLONE_TREE.PY)                 | [PEPCODING](https://nados.io/question/transform-to-left-cloned-tree) | 
+| NODE TO ROOT PATH BINARY TREE                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/NODE_TO_ROOT_PATH.PY)               | [LEETCODE](https://leetcode.com/problems/binary-tree-paths/) | 
+| PATH SUM BINARY TREE                          | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/PATH_SUM.PY)                        | []() | 
+| PRINT K LEVEL DOWN BINARY TREE                | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/PRINT_K_LEVEL_DOWN.PY)              | [GFG](https://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root/) | 
+| REMOVE SINGLE CHILD BINARY TREE               | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/REMOVE_SINGLE_CHILD.PY)             | []() | 
+| AVL TREE                                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)                        | [GFG](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/) |   
 
 ----
 # GRAPH
 
 ----
-| Problems                  | Solution                         |
-| -------------             |:-------------:                   |
-| GRAPH CREATION SET     | [GRAPH_CREATION_SET.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_SET.PY)              |
-| GRAPH CREATION LIST | [GRAPH_CREATION_ADJ.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_ADJ.PY)        |   
-| GRAPH CREATION MATRIX | [GRAPH_CREATION_MAT.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_MAT.PY)        |   
-| DFS          | [DFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DFS.PY)        |   
-| GET CONNECTED COMPONENTS          | [GET_CONNECTED_COMPO.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GET_CONNECTED_COMPO.PY)     | 
-| IS GRAPH CONNECTED          | [IS_GRAPH_CONNECTED.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CONNECTED.PY)        |   
-| GET NUMBER OF ISLANDS          | [COUNT_NO_OF_ISLAND.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/COUNT_NO_OF_ISLAND.PY)        |   
-| PERFECT FRIENDS         | [PERFECT_FRIEND.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PERFECT_FRIEND.PY)        |   
-| HAMILTON PATH          | [HAMILTON_PATH.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/HAMILTON_PATH.PY)        |   
-| KNIGHT TOUR          | [KNIGHT_TOUR.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KNIGHT_TOUR.PY)        |   
-| BFS     | [BFS.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/BSF.PY)              |
-| SPREAD INFECTION PROBLEM     | [SPREAD_INFECTION.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/SPREAD_INFECTION.PY)              |
-| IS GRAPH CYCLIC  | [IS_GRAPH_CYCLIC.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CYCLIC.PY)              |
-| IS GRAPH BIPARTITE     | [IS_GRAPH_BIPARTITE.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_BIPARTITE.PY)              |
-| DIJSTRA'S ALGORITHM   | [DIJSKRA'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)     | 
-| KRUSKAL'S ALGORITHM| [KRUSKAL'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)       |  
-| PRIM'S ALGORITHM| [PRIM'S.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)        |  
-| FLOYD WARSHAL    | [floyd_warshal.PY](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)        |  
+| Problems                  | Solution                         | Platform |
+| :-------------             |:-------------                   | :-------------             |
+| GRAPH CREATION SET         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_SET.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |
+| GRAPH CREATION LIST        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_ADJ.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |   
+| GRAPH CREATION MATRIX      | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_MAT.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |   
+| DFS                        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DFS.PY)                 | [GFG](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) |   
+| GET CONNECTED COMPONENTS   | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GET_CONNECTED_COMPO.PY) | [GFG](https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | 
+| IS GRAPH CONNECTED         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CONNECTED.PY)  | [GFG](https://www.geeksforgeeks.org/check-if-a-directed-graph-is-connected-or-not/) |   
+| GET NUMBER OF ISLANDS      | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/COUNT_NO_OF_ISLAND.PY)  | [LEETCODE](https://leetcode.com/problems/number-of-islands/submissions/) |   
+| PERFECT FRIENDS            | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PERFECT_FRIEND.PY)      | [GFG](https://www.geeksforgeeks.org/number-groups-formed-graph-friends/) |   
+| HAMILTON PATH              | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/HAMILTON_PATH.PY)       | [GFG](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) |   
+| KNIGHT TOUR                | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KNIGHT_TOUR.PY)         | [GFG](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) |   
+| BFS                        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/BSF.PY)                 | [GFG](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) |
+| SPREAD INFECTION PROBLEM   | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/SPREAD_INFECTION.PY)    | [GFG](https://www.geeksforgeeks.org/maximum-time-required-for-all-patients-to-get-infected/) |
+| IS GRAPH CYCLIC            | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_CYCLIC.PY)     | [GFG](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/) |
+| IS GRAPH BIPARTITE         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/IS_GRAPH_BIPARTITE.PY)  | [LEETCODE](https://leetcode.com/problems/is-graph-bipartite/) |
+| DIJSTRA'S ALGORITHM        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/DIJSKRA'S.PY)           | [GFG](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/) | 
+| KRUSKAL'S ALGORITHM        | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/KRUSKAL'S.PY)           | [GFG](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/) |  
+| PRIM'S ALGORITHM           | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)              | [GFG](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) |  
+| FLOYD WARSHAL              | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)       | [GFG](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) |  
 
 ----
 # DIVIDE AND CONQURE
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| FINDING EXPONENTIAL      | [EXPONENTIAL.PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/EXPONENTIAL.PY)              |
-| LARGE NUMBER MULTIPLICAIOTN  | [LARGE_NUM_MUL.PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/LARGE_NUM_MUL.PY)        |   
-| MIN MAX PROBLEM    | [MIN_MAX_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/MIN_MAX_PROBLEM.PY)     | 
-| STRASSEN'S MATRIX MULTIPLICAOINT | [Stressen's_Matrix_Mul .PY](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/Strassen%E2%80%99s_Matrix_Mul.PY)       |  
+
+| Problems                          | Solution                         | Platform                  |
+| :-------------                    |:-------------                   | :-------------             |
+| FINDING EXPONENTIAL              | [Solution](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/EXPONENTIAL.PY)                  | [GFG](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/) |  
+| LARGE NUMBER MULTIPLICAIOTN      | [Solution](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/LARGE_NUM_MUL.PY)                | [GFG](https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/) |    
+| MIN MAX PROBLEM                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/MIN_MAX_PROBLEM.PY)              | [GFG](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) |  
+| STRASSEN'S MATRIX MULTIPLICAOINT | [Solution](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/Strassen%E2%80%99s_Matrix_Mul.PY)| [GFG](https://www.geeksforgeeks.org/strassens-matrix-multiplication/) |   
+
 
 ----
 # BIT MANIPULATION
 
 ----
 
-| Problems                  | Solution                         |
-| -------------             |:-------------                   |
-| BASIC OPERAIONS     | [BASIC.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BASICS.PY)              |
-| BIT DIFFERENCE PROBLEM       | [BIT_DIFFERENCE.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BIT_DIFFERENCE.PY)        |   
-| BINARY TO GREY CODE EQUIVALENCE | [Binary_To_Gray_Code_equivalent.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Binary_To_Gray_Code_equivalent.py)     | 
-| CHECK K BIT| [CHECK_K_BIT.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/CHEKC_K_BIT.PY)       |  
-| FIND FIRST SET BIT     | [FIND_FIRST_SET_BIT.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/FIND_FIRST_SET_BIT.PY)        |  
-| IS POWER OF TWO    | [IS_POWER_2.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/IS_POWER_2.PY)        |  
-| NUMBER IS SPARSE OR NOT    | [Number_is_sparse_or_not.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Number_is_sparse_or_not.py)                 | 
-| SWAPP ALL ODD AND EVEN BITS| [Swap_all_odd_and_even_bits.py](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Swap_all_odd_and_even_bits.py)                 |   
-| COUNT TOTAL SET BITS   | [Count_total_set_bits.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Count_total%20_set_bits.py)        |  
-| MAXIMUM SUBSET XOR     | [Maximum_subset_XOR.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Maximum_subset_XOR.py)                 | 
-| RIGHTMOST DIFFERENT BIT| [Rightmost_different_bit.py](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Rightmost_different_bit%20.py)                 |   
-| EQUAL SUM AND XOR     | [EQUAL_SUM_AND_XOR.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/EQUAL_SUM_AND_XOR.PY)        |  
-| LONGEST CONSICUTIVE ONE'S    | [LONGEST_CONSECUTIVE_1'S.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/LONGEST_CONSECUTIVE_1'S.PY)                 | 
-| MIDORI AND CHOCOLATE PROBLEM | [MIDORI_AND_CHOCOLATE.py](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/MIDORI_AND_CHOCOLATE.PY)                 |   
-| NON REPEATING TWO DUPLICATE VALUES   | [NON_REPEATING_NUMBERS.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/NON_REPEATING_NUMBERS.PY)        |  
-| PARTY COUPLE PROBLEM (ONE DUPLICATE)     | [PARTY_OF_COUPLE.PY](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/PARTY_OF_COUPLE.PY)                 | 
-
-
+| Problems                  | Solution                         | Platform
+| :-------------             |:-------------                   | :-------------                   
+| BASIC OPERAIONS     | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BASICS.PY)                                                | []() |
+| BIT DIFFERENCE PROBLEM       | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/BIT_DIFFERENCE.PY)                               | [GFG](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1) |   
+| BINARY TO GREY CODE EQUIVALENCE | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Binary_To_Gray_Code_equivalent.py)            | [GFG](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/) |    
+| CHECK K BIT| [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/CHEKC_K_BIT.PY)                                                    | [GFG](https://www.geeksforgeeks.org/check-whether-k-th-bit-set-not/#:~:text=Method%201%20Using%20Left%20Shift,else%20result%20is%20NOT%20SET.) |   
+| FIND FIRST SET BIT     | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/FIND_FIRST_SET_BIT.PY)                                 | [GFG](https://www.geeksforgeeks.org/position-of-rightmost-set-bit/) |  
+| IS POWER OF TWO    | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/IS_POWER_2.PY)                                             | [LEETCODE](https://leetcode.com/problems/power-of-two/submissions/) |  
+| NUMBER IS SPARSE OR NOT    | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Number_is_sparse_or_not.py)                        | [GFG](https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/) | 
+| SWAPP ALL ODD AND EVEN BITS| [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Swap_all_odd_and_even_bits.py)                     | [GFG](https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/) |   
+| COUNT TOTAL SET BITS   | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Count_total%20_set_bits.py)                            | [GFG](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/) |  
+| MAXIMUM SUBSET XOR     | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Maximum_subset_XOR.py)                                 | [GFG](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/) | 
+| RIGHTMOST DIFFERENT BIT| [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/Rightmost_different_bit%20.py)                         | [GFG](https://www.geeksforgeeks.org/position-rightmost-different-bit/) |   
+| EQUAL SUM AND XOR     | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/EQUAL_SUM_AND_XOR.PY)                                   | [GFG](https://www.geeksforgeeks.org/equal-sum-xor/) |  
+| LONGEST CONSICUTIVE ONE'S    | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/LONGEST_CONSECUTIVE_1'S.PY)| [GFG](https://www.geeksforgeeks.org/length-longest-consecutive-1s-binary-representation/) | 
+| MIDORI AND CHOCOLATE PROBLEM | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/MIDORI_AND_CHOCOLATE.PY)          | [GFG](https://practice.geeksforgeeks.org/problems/midori-and-chocolates2438/1#:~:text=Input%3A%20i%20%3D%202%2C%20L,%2D%202%20%3D%206%20more%20shops.&text=Input%3A%20i%20%3D%201%2C%20L,read%20input%20or%20print%20anything.) |   
+| NON REPEATING TWO DUPLICATE VALUES   | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/NON_REPEATING_NUMBERS.PY)                | [GFG](https://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/) |      
+| PARTY COUPLE PROBLEM (ONE DUPLICATE)     | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/PARTY_OF_COUPLE.PY)                  | [GFG](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1) | 
 
 ----
 # GREEDY
 ----
 
 
-| Problems                  | Solution                         |
-| -------------             |:-------------:                   |
-| 01 KNAPSACK PROBLEM     | [01_knapsach_recursion.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/01_knapsack_recursion.py)              |
-| FRACTIONAL KNAPSACK     | [FRACTIONAL_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/FRACTIONAL_KNAPSACK.PY)              |
-| CONNECTED COMPONENT PROBLEM   | [CONNECTED_COMPONENT.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/CONNECTED_COMPONENT.PY)        |   
-| DECODE STRING WAYS PROBLEM| [DECODE_STRINGS_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/DECODE_STRINGS_WAYS.py)     | 
-| LONGEST COMMON SUBSEQUENCE| [EDIT_DISTANCE_BET2STRING.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/EDIT_DISTANCE_BET2STRING.py)       |  
-| OPEN PARANTHESIS PROBLEM | [LONG_COM_SUB.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/LONG_COM_SUB.PY)        |  
-| PARTITION SET K SUM    | [OPNE_PARANTHESIS_PROBLME.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/OPNE_PARENTHESIS_PROBLME.py)        |  
-| STAIR CASE PROBLEM | [PARTITION_SET_K_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/greedy/PARTITION_SET_K_SUM.py)                 | 
-| EDIT DISTANCE BETWEEN TWO STRINGS| [STAIR_RECUR.py](https://github.com/aditya-2703/DSA/blob/main/greedy/STAIR_RECUR.py)                 |   
+| Problems                  | Solution                         | Platform                   |
+| :-------------             |:-------------:                   | :-------------             |
+| 01 KNAPSACK PROBLEM              | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/01_knapsack_recursion.py)   | [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) |
+| FRACTIONAL KNAPSACK              | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/FRACTIONAL_KNAPSACK.PY)     | [GFG](https://www.geeksforgeeks.org/fractional-knapsack-problem/  ) |
+| DECODE STRING WAYS PROBLEM       | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/DECODE_STRINGS_WAYS.py)     | [LEETCODE](https://leetcode.com/problems/decode-ways/) | 
+| LONGEST COMMON SUBSEQUENCE       | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/EDIT_DISTANCE_BET2STRING.py)| [GFG](https://www.geeksforgeeks.org/edit-distance-dp-5/) |  
+| OPEN PARANTHESIS PROBLEM         | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/LONG_COM_SUB.PY)            | [GFG](https://www.geeksforgeeks.org/longest-common-substring-dp-29/) |  
+| PARTITION SET K SUM              | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/OPNE_PARENTHESIS_PROBLME.py)| [GFG](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/) |  
+| STAIR CASE PROBLEM               | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/PARTITION_SET_K_SUM.py)     | [LEETCODE](https://leetcode.com/problems/climbing-stairs/) | 
 
 ----
 # BACKTRACKING
 ----
-| Problems                  | Solution                         |
-| -------------             |:-------------:                   |
-| FLOOD FILL ALGO     | [FLOOD_FILL.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/FLOOD_FILL.PY)              |
-| TARGET SUBSET SUM     | [SUBSET_SUM_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUBSET_SUM_PROBLEM.PY)              |
-| N QUEEN PROBLEM     | [N_QUEEN_DP.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/N_QUEEN_DP.PY)              |
-| KNIGHT TOUR     | [KNIGHT_TOUR.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/KNIGHT_TOUR.PY)              |
-| SUDUKO SOLVER       | [SUDOKO.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUDOKO.PY)        |   
-| TRAVELLING SALESMAN PROBLEM    | [Travelling_salesman_problem.PY](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)     | 
+| Problems                       | Solution                         | Platform                  |
+| :-------------                 |:-------------                    | :-------------            |
+| FLOOD FILL ALGO                | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/FLOOD_FILL.PY)                 | [GFG](https://www.geeksforgeeks.org/flood-fill-algorithm-implement-fill-paint/) |
+| TARGET SUBSET SUM              | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUBSET_SUM_PROBLEM.PY)         | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) |
+| N QUEEN PROBLEM                | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/N_QUEEN_DP.PY)                 | [GFG](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/) |
+| KNIGHT TOUR                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/KNIGHT_TOUR.PY)                | [GFG](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) |
+| SUDUKO SOLVER                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUDOKO.PY)                     | [LEETCODE](https://leetcode.com/problems/sudoku-solver/) |   
+| TRAVELLING SALESMAN PROBLEM    | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)| [GFG](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/) | 
 
 
 ----
@@ -428,41 +415,39 @@
 ----
 
 
-| Problems                  | Solution                         |
-| -------------             |:-------------:                   |
-| 01 KNAPSACK   | [01_knapsack_dyna.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/01_knapsack_dyna.py)              |
-| UNBOUNDED 01 KNAPSACK   | [UNBOUNDED_KNAPSACK.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/UNBOUNDED_KNAPSACK.PY)              |
-| ASSEMBLY LINE SHEDULAR          | [ASSEMBLY_LINE_SCHEDULAR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ASSEMBLY_LINE_SCHEDULAR.PY)        |   
-| BIONOMIAL    | [BIONOMIAL.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/BIONOMIAL.PY)     | 
-| DECODE STRING WAYS DP APPROACH    | [DECODE_STRINGS_WAYS_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_STRINGS_WAYS._DP.py)       |  
-| EDIT DISTANCE BETWEEN TWO STRING DP APPROACH | [EDIT_DISTANCE_BET2STRING_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/EDIT_DISTANCE_BET2STRING_DP.py)        |
-| LONGEST COMMON SUBSEQUENCE DP APPROACH    | [LONG_COM_SUB_DP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/LONG_COM_SUB_DP.py)                       |    | MAKING CHAIN PROBLEM          | [MAKING_CHAIN.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MAKING_CHAIN.PY)        |   
-| SUBSET SUM PROBLEM          | [SUBSET_SUM_PROBLEM.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUBSET_SUM_PROBLEM.PY)        |   
-| MIN PATH SUM PROBLEM          | [MIN_PATH_SUM.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MIN_PATH_SUM.PY)        |   
-| CLIMB STAIRS PROBLEM          | [CLIMB_STAIRS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/CLIMB_STAIRS.PY)        |   
-| CLIMB STAIRS WITH JUMP        | [CLIMB_STAIRS_WITH_JUMP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/CLIMB_STAIRS_WITH_JUMP.PY)        |   
-| CLIMB STAIRS WITH MIN JUMP    | [CLIMB_STAIRS_WITH_MIN_JUMP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/CLIMB_STAIRS_WITH_MIN_JUMP.PY)        |   
-| MOST COST CLIMB STAIRS        | [MOST_COST_CLIMBING_STAIRS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MOST_COST_CLIMBING_STAIRS.PY)        |   
-| GOLDMINE DIG PROBLEM          | [GOLDMINE_DIG.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/GOLDMINE_DIG.PY)        |   
-| COIN CHANGE PERMUTATION       | [COIN_CHANGE_PERMUTATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_PERMUTATIONS.PY)        |   
-| COIN CHANGE COMBINATIONS      | [COIN_CHANGE_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_COMBINATIONS.PY)        |   
-| DECODE WAYS| [DECODE_WAYS.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_WAYS.PY)     | 
-| COUNT BINARY STRING | [COUNT_BIN_STR.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_BIN_STR.PY)     | 
-| ARRANGE THE BUILDING | [ARRANGE_BUILDING.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ARRANGE_BUILDING.PY)     | 
-| COUNT SUBSEQUENCE OF A+B+C | [COUNT_SUBSEQUENCE_ABC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_SUBSEQUENCE_ABC.PY)     | 
-| MAX SUM OF TWO NON ADJUCENT | [SUM_OF_TWO_NON_ADJACENT.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUM_OF_TWO_NON_ADJACENT.PY)     | 
-| PAINT HOUSE  | [PAINT_HOUSE.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE.PY)     | 
-| PAINT HOUSE 2 | [PAINT_HOUSE_2.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE_2.PY)     | 
-|PAINT FENCE PROBLEM| [PAINT_FENCE.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_FENCE.PY)|
-|TILLING 2x1 PROBLEM| [TILLING_2x1.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/TILLING_2x1.PY)|
-| MATRIX SUM RECTANGLE| [MATRIX_SUM_REC.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MATRIX_SUM_REC.py)     | 
-| RANGE QUERY SUM PROBLEM    | [RANGE_QUERY.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/RANGE_QUERY.py)       |  
-| STAIR CASE PROBLEM WITH  DP APPROACH|[STAIR_DP_BOTTOMUP.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/STAIR_DP_BOTTOMUP.py)        |  
-| TOTAL COUNT BINARY SEARCH TREE | [TOTAL_COUNT_BST.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/TOTAL_COUNT_BST.py)        |  
-| COIN CHANGE PROBLEM WITH DP APPROACH| [choinchange.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/coinchange.py)                 | 
-| EGG DROPPING WITH DP APPROACH| [egg_droping.py](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping.py)                 |   
-| EGG DROPPING WITH DP APPROACH WITH SECOND APPROACH        | [egg_dropping_diff.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping_diff.py)                   |  
-| FIBONACCI SEQUENCE    | [fibonacci.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/fibonacci.py)                       |    
-| FIND NEXT PERMUTATION        | [next_permutation.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/next_permutaion.py)                   |  
-| PASCAL TRIANGLE    | [pascal.PY](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/pascal.py)                       |    
-
+| Problems                  | Solution                         | Platform |
+| :-------------             |:-------------                   |:-------------              |
+| FIBONACCI SEQUENCE                                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/fibonacci.py)                  | [GFG](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/) |    
+| 01 KNAPSACK                                             | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/01_knapsack_dyna.py)           | [GFG](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) |
+| UNBOUNDED 01 KNAPSACK                                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/UNBOUNDED_KNAPSACK.PY)         | [GFG](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) |
+| ASSEMBLY LINE SHEDULAR                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ASSEMBLY_LINE_SCHEDULAR.PY)    | [GFG](https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/) |   
+| BIONOMIAL                                               | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/BIONOMIAL.PY)                  | [GFG](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/) | 
+| DECODE STRING WAYS DP APPROACH                          | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_STRINGS_WAYS._DP.py)    | [LEETCODE](https://leetcode.com/problems/decode-ways/) |  
+| EDIT DISTANCE BETWEEN TWO STRING DP APPROACH            | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/EDIT_DISTANCE_BET2STRING_DP.py)| [GFG](https://www.geeksforgeeks.org/edit-distance-dp-5/) |
+| LONGEST COMMON SUBSEQUENCE DP APPROACH                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/LONG_COM_SUB_DP.py)            | [GFG](https://www.geeksforgeeks.org/longest-common-substring-dp-29/) |    
+| MAKING CHAIN PROBLEM                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MAKING_CHAIN.PY)               | [GFG](https://www.geeksforgeeks.org/coin-change-dp-7/) |   
+| SUBSET SUM PROBLEM                                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUBSET_SUM_PROBLEM.PY)         | [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) |   
+| MIN PATH SUM PROBLEM                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MIN_PATH_SUM.PY)               | [LEETCODE](https://leetcode.com/problems/minimum-path-sum/) |   
+| CLIMB STAIRS PROBLEM                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/CLIMB_STAIRS.PY)               | [LEETCODE](https://leetcode.com/problems/climbing-stairs/) |    
+| CLIMB STAIRS WITH JUMP                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/CLIMB_STAIRS_WITH_JUMP.PY)     | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb-stairs-with-variable-jumps-official/ojquestion) |   
+| CLIMB STAIRS WITH MIN JUMP                              | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/CLIMB_STAIRS_WITH_MIN_JUMP.PY) | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb-stairs-with-minimum-moves-official/ojquestion) |   
+| MOST COST CLIMB STAIRS                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MOST_COST_CLIMBING_STAIRS.PY)  | [LEETCODE](https://leetcode.com/problems/min-cost-climbing-stairs/) |   
+| GOLDMINE DIG PROBLEM                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/GOLDMINE_DIG.PY)               | [GFG](https://www.geeksforgeeks.org/gold-mine-problem/) |   
+| COIN CHANGE PERMUTATION                                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_PERMUTATIONS.PY)   | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/coin-change-permutations-official/ojquestion) |   
+| COIN CHANGE COMBINATIONS                                | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COIN_CHANGE_COMBINATIONS.PY)   | [LEETCODE](https://leetcode.com/problems/coin-change-2/) |   
+| DECODE WAYS                                             | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/DECODE_WAYS.PY)                | [LEETCODE](https://leetcode.com/problems/decode-ways/) | 
+| COUNT BINARY STRING                                     | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_BIN_STR.PY)              | [GFG](https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/) | 
+| ARRANGE THE BUILDING                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/ARRANGE_BUILDING.PY)           | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/arrange-buildings-official/ojquestion) | 
+| COUNT SUBSEQUENCE OF A+B+C                              | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/COUNT_SUBSEQUENCE_ABC.PY)      | [GFG](https://www.geeksforgeeks.org/number-subsequences-form-ai-bj-ck/) | 
+| MAX SUM OF TWO NON ADJUCENT                             | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/SUM_OF_TWO_NON_ADJACENT.PY)    | [GFG](https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/) | 
+| PAINT HOUSE                                             | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE.PY)                | [GFG](https://www.geeksforgeeks.org/minimize-cost-of-painting-n-houses-such-that-adjacent-houses-have-different-colors/) | 
+| PAINT HOUSE 2                                           | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_HOUSE_2.PY)              | [PEPCODING](https://www.youtube.com/watch?v=jGywRalvoRw) | 
+|PAINT FENCE PROBLEM                                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/PAINT_FENCE.PY)                | [GFG](https://www.geeksforgeeks.org/painting-fence-algorithm/) |
+|TILLING 2x1 PROBLEM                                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/TILLING_2x1.PY)                | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/tiling1-official/ojquestion  ) |
+| MATRIX SUM RECTANGLE                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/MATRIX_SUM_REC.py)             | [GFG](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/) | 
+| RANGE QUERY SUM PROBLEM                                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/RANGE_QUERY.py)                | [GFG](https://www.geeksforgeeks.org/range-minimum-query-for-static-array/) |  
+| TOTAL COUNT BINARY SEARCH TREE                          | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/TOTAL_COUNT_BST.py)            | [GFG](https://www.geeksforgeeks.org/total-number-of-possible-binary-search-trees-with-n-keys/) |  
+| EGG DROPPING WITH DP APPROACH                           | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping.py)                | [GFG](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/) |   
+| EGG DROPPING WITH DP APPROACH WITH SECOND APPROACH      | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/egg_droping_diff.py)           | [GFG](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/) |  
+| FIND NEXT PERMUTATION                                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/next_permutaion.py)            | [LEETCODE](https://leetcode.com/problems/next-permutation/) |  
+| PASCAL TRIANGLE                                         | [Solution](https://github.com/aditya-2703/DSA/blob/main/dynamic_programming/pascal.py)                     | [LEETCODE](https://leetcode.com/problems/pascals-triangle/solution/) |    
