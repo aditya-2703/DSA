@@ -3,7 +3,6 @@
   <img width="300" src="logo.png">
 </p>
 
-----
 
 | Problems                      | Solution                         | Platform                        |
 | :-------------                |:-------------                   | :-------------                   |
