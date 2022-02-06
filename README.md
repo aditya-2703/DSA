@@ -18,7 +18,6 @@
 ----
 # PATTERNS
 
-----
 
 
 
@@ -46,10 +45,8 @@
 
 
 
-----
 # MATH
 
-----
 
 | Problems              | Solution                         | Platform |
 | :-------------        | :-------------                   | :-------------                   
@@ -66,10 +63,8 @@
 | MOD MUL INVERSE       | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/MOD_MULTIPLICATIVE_INVERSE.PY)|  [GFG](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)   |      
 | PRIME NUMBER          | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATHS/PRIME.PY)                     |  [GFG](https://www.geeksforgeeks.org/prime-numbers/)   |        
 
-----
 # ARRAY
 
-----
 | Problems                  | Solution                         | Platform                           |
 | :-------------            |:-------------                   | :-------------                     |
 | ARRANGE ARRAY IN O(1)     | [Solution](https://github.com/aditya-2703/DSA/blob/main/ARRAY/ARRANGE_ARRAY_0(1).PY)                 | []() |
@@ -98,10 +93,8 @@
   
 
 
-----
 # STRING 
 
-----
 | Problems                                      | Solution                         | Platform                          | 
 | :-------------                                 |:-------------                    | :-------------                   |
 | ANAGRAM                                       | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/ANAGRAM.PY)                       | [LEETCODE](https://leetcode.com/problems/valid-anagram/) |
@@ -115,9 +108,7 @@
 | SUM LARGE INT                                 | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/SUM_LARGE_INT.PY)                 | [GFG](https://www.geeksforgeeks.org/sum-two-large-numbers/#:~:text=1%20Reverse%20both%20strings.,3%20Finally%20reverse%20the%20result.) |  
 | VALIDATE IP                                   | [Solution](https://github.com/aditya-2703/DSA/blob/main/STRING/VALIDATE_IP.PY)                   | [GFG](https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/#:~:text=A%20valid%20IP%20address%20must,25525511135%20Output%3A%20%5B%E2%80%9C255.255.) |    
 
-----
 # STACK
-----
 
 | Problems                              | Solution                         | Platform                        |
 | :-------------                        |:-------------                    |:-------------                   |
@@ -141,10 +132,8 @@
 
 
 
-----
 # QUEUE 
 
-----
 
 | Problems                  | Solution                         | Platform           |
 | :-------------             |:-------------                   | :-------------     |
@@ -155,10 +144,8 @@
 | DOUBLE ENDED QUEUE        | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/DOUBLE_ENDED_QUEUE.PY)      | [GFG](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/) |
 | SLIDING WINDOW MAXIMUM    | [Solution](https://github.com/aditya-2703/DSA/blob/main/QUEUE/SLIDING_WINDOW_MAX.PY)      | [GFG](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
 
-----
 # MATRIX 
 
-----
 
 | Problems                       | Solution                         | Platform                   |
 | :-------------                 |:-------------                   | :-------------             |
@@ -172,10 +159,8 @@
 | SPIRAL TRAVERSAL IN MATRIX     | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/SPIRAL_TRAVERSAL.PY)     | [LEETCODE](https://leetcode.com/problems/spiral-matrix/) |    
 | TRANSPOSE OF MATRIX            | [Solution](https://github.com/aditya-2703/DSA/blob/main/MATRIX/TRANSPOSE_MATRIX.PY)     | [GFG](https://www.geeksforgeeks.org/program-to-find-transpose-of-a-matrix/) |    
 
-----
 # LINKED LIST 
 
-----
 | Problems                                     | Solution                      | Platform                                       |
 | :-------------                                |:-------------                 | :-------------                                | 
 | LINKED LIST                                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/LINKED_LIST.py)                                          | [GFG](https://www.geeksforgeeks.org/linked-list-set-1-introduction/) |
@@ -193,10 +178,8 @@
 | PAIR SWAP                                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/PAIR_SWAP.PY)                                            | [LEETCODE](https://leetcode.com/problems/swap-nodes-in-pairs/) |  
 | MERGED  TWO SORTED LINKED LIST               | [Solution](https://github.com/aditya-2703/DSA/blob/main/LINKED_LIST/MERGED_TWO_SORTED_ARR.PY)                                | [LEETCODE](https://leetcode.com/problems/merge-two-sorted-lists/) |  
 
-----
 # RECURSION
 
-----
 
 
 | Problems                                    | Solution                        | Platform                  |
@@ -220,10 +203,8 @@
 | EXPLORE ALL POSSIBLE MAZE PATH WITH JUMP    | [MAZE_FIND_WITH_JUMP.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/MAZE_FIND_WITH_JUMP.PY)                              | [PEPCODING](https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-maze-path-with-jumps-official/ojquestion) |  
 | KEYPAD COMBINATIONS                         | [KEYPAD_COMBINATIONS.PY](https://github.com/aditya-2703/DSA/blob/main/RECURSION/KEYPAD_COMBINATIONS.PY)                              | [LEETCODE](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  
 
-----
 # HASHMAP
 
-----
 
 | Problems                                  | Solution                         | Platform        |
 | :-------------                            |:-------------                    | :-------------  |                 
@@ -241,10 +222,8 @@
 
 
 
-----
 # SORTING
 
-----
 
 | Problems                      | Solution                         | Platform                        |
 | :-------------                |:-------------                   | :-------------                   |
@@ -263,10 +242,8 @@
 | SORT 0 1 2 IN ARRAY           | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/SORT_0_1_2.PY)           | [LEETCODE](https://leetcode.com/problems/sort-colors/) |  
 | UNION OR TWO SORTED ARRAY     | [Solution](https://github.com/aditya-2703/DSA/blob/main/sorting/UNION_2_SORTED_ARRAY.PY) | [GFG](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/) |  
 
-----
 # SEARCHING
 
-----
 
 | Problems                           | Solution                         | Platform                         |
 | :-------------                      |:-------------                   | :-------------                   |
@@ -279,10 +256,8 @@
 | SEARCH MISSING REPEATING VALUE     | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/FIND_MISSING_REPEATING_NO.PY)  | [GFG](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) | 
 | SEARCH MEDIAN OF TWO SORTED ARRAY  | [Solution](https://github.com/aditya-2703/DSA/blob/main/searching/MEDIAN_TWO_SORTED_ARR.PY)      | [GFG](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) |   
 
-----
 # TREE
 
-----
 
 | Problems                  | Solution                         | Platform                    |
 | :-------------             |:-------------:                   | :-------------             |
@@ -319,10 +294,8 @@
 | REMOVE SINGLE CHILD BINARY TREE               | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/REMOVE_SINGLE_CHILD.PY)             | []() | 
 | AVL TREE                                      | [Solution](https://github.com/aditya-2703/DSA/blob/main/TREE/AVL_TREE.PY)                        | [GFG](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/) |   
 
-----
 # GRAPH
 
-----
 | Problems                  | Solution                         | Platform |
 | :-------------             |:-------------                   | :-------------             |
 | GRAPH CREATION SET         | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/GRAPH_CREATION_SET.PY)  | [GFG](https://www.geeksforgeeks.org/generate-graph-using-dictionary-python/) |
@@ -344,10 +317,8 @@
 | PRIM'S ALGORITHM           | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/PRIM'S.PY)              | [GFG](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) |  
 | FLOYD WARSHAL              | [Solution](https://github.com/aditya-2703/DSA/blob/main/GRAPH/floyd_warshal.py)       | [GFG](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) |  
 
-----
 # DIVIDE AND CONQURE
 
-----
 
 
 | Problems                          | Solution                         | Platform                  |
@@ -358,10 +329,8 @@
 | STRASSEN'S MATRIX MULTIPLICAOINT | [Solution](https://github.com/aditya-2703/DSA/blob/main/divide_and_conqure/Strassen%E2%80%99s_Matrix_Mul.PY)| [GFG](https://www.geeksforgeeks.org/strassens-matrix-multiplication/) |   
 
 
-----
 # BIT MANIPULATION
 
-----
 
 | Problems                  | Solution                         | Platform
 | :-------------             |:-------------                   | :-------------                   
@@ -382,9 +351,7 @@
 | NON REPEATING TWO DUPLICATE VALUES   | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/NON_REPEATING_NUMBERS.PY)                | [GFG](https://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/) |      
 | PARTY COUPLE PROBLEM (ONE DUPLICATE)     | [Solution](https://github.com/aditya-2703/DSA/blob/main/BIT_MANIPULATION/PARTY_OF_COUPLE.PY)                  | [GFG](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1) | 
 
-----
 # GREEDY
-----
 
 
 | Problems                  | Solution                         | Platform                   |
@@ -397,9 +364,9 @@
 | PARTITION SET K SUM              | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/OPNE_PARENTHESIS_PROBLME.py)| [GFG](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/) |  
 | STAIR CASE PROBLEM               | [Solution](https://github.com/aditya-2703/DSA/blob/main/greedy/PARTITION_SET_K_SUM.py)     | [LEETCODE](https://leetcode.com/problems/climbing-stairs/) | 
 
-----
 # BACKTRACKING
-----
+
+
 | Problems                       | Solution                         | Platform                  |
 | :-------------                 |:-------------                    | :-------------            |
 | FLOOD FILL ALGO                | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/FLOOD_FILL.PY)                 | [GFG](https://www.geeksforgeeks.org/flood-fill-algorithm-implement-fill-paint/) |
@@ -410,9 +377,7 @@
 | TRAVELLING SALESMAN PROBLEM    | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)| [GFG](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/) | 
 
 
-----
 # DYNAMIC PROGRAMMING
-----
 
 
 | Problems                  | Solution                         | Platform |
