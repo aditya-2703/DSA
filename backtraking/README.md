@@ -5,6 +5,7 @@
 
 
 
+
 | Problems                       | Solution                         | Platform                  |
 | :-------------                 |:-------------                    | :-------------            |
 | FLOOD FILL ALGO                | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/FLOOD_FILL.PY)                 | [GFG](https://www.geeksforgeeks.org/flood-fill-algorithm-implement-fill-paint/) |
@@ -13,7 +14,6 @@
 | KNIGHT TOUR                    | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/KNIGHT_TOUR.PY)                | [GFG](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) |
 | SUDUKO SOLVER                  | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/SUDOKO.PY)                     | [LEETCODE](https://leetcode.com/problems/sudoku-solver/) |   
 | TRAVELLING SALESMAN PROBLEM    | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/Travelling_salesman_problem.py)| [GFG](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/) | 
-
 | MAX SCORE | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/MAX_SCORE.PY)| [LEETCODE](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) |
 | PRINT LEXICLE GRAPHI ORDER| [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/PRINT_LEXICLE_GRAPHI.PY)| [GFG](https://www.geeksforgeeks.org/generate-all-numbers-up-to-n-in-lexicographical-order/) | 
 | STRING ABBRIVATION| [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/STR_ABBRIVATION.PY)| [GFG](https://www.geeksforgeeks.org/alphanumeric-abbreviations-of-a-string) | 
