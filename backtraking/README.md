@@ -21,7 +21,7 @@
 | K EQUAL SUM| [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/K_EQUAL_SUM.PY)| [LEETCODE](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | 
 | FRIEND PAIRING 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/FRIENDS_PAIRING_2.PY)| [PEPCODING](https://nados.io/question/friends-pairing-2) | 
 | GOLDMINE 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/GOLD_MINE_2.PY)| [GFG](https://www.geeksforgeeks.org/gold-mine-problem/) | 
-| LARGEST NUM AFTER K SWAP | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/LARGEST_NUM_AFTER_K_SWAPS.PY)| [GFG](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) | 
+| LARGEST NUM AFTER K SWAP | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/LARGEST_NUM_AFTER_K_SWAP.PY)| [GFG](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) | 
 | TUG OF WAR | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/TUG_OF_WAR.PY)| [GFG](https://www.geeksforgeeks.org/tug-of-war/) | 
 | PERMUTATAION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/PERMUTATION_1.PY)| [PEPCODING](https://nados.io/question/permutation-1) | 
 | COMBINATION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COMBINATION_1.PY)| [PEPCODING](https://nados.io/question/combinations-1) | 
