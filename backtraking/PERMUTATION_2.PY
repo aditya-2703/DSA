@@ -1,5 +1,6 @@
 # Permutations - 2
 
+# # https://nados.io/question/permutations-2
 # 1. You are give a number of boxes (nboxes) and number of non-identical items (ritems).
 # 2. You are required to place the items in those boxes and print all such configurations possible.
 
@@ -75,23 +76,34 @@
 # 00231
 # 00312
 # 00321
-
-
-def get_solution(i,n,k,arr):
-    if i>=n:
-        print(arr)
+# count the number of item
+def is_ele(arr,k):
+    count = 0 
+    for i in arr:
+        if i!="0":
+            count+=1
+    return count==k
+def get_solution(index,n,k,visited,ans):
+    if index == n:
+        # if all item filled print ans
+        if is_ele(ans,k):
+            print(ans)
         return 
     
+    # for permutation in each cell explore all values  
     for j in range(k):
-        if arr[j]=="0":
-            arr[j] = str(j+1)
-            get_solution(i+1,n,k,arr)
-            arr[j] = "0"
-    get_solution(i+1,n,k,arr)
-    
+        if visited[j]==False:
+            visited[j]=True 
+            get_solution(index+1,n,k,visited,ans+str(j+1))
+            visited[j]=False
+    # this is for if we do not take any item
+    get_solution(index+1,n,k,visited,ans+str(0))
+
+
 
 
 if __name__ == '__main__':
     n = 5
     k = 3
-    get_solution(0,n,k,["0"]*n)
+    get_solution(0,n,k,[False]*n,"")
+    
