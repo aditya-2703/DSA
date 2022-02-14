@@ -33,4 +33,23 @@
 | REMOVE INVALID PARANTHESIS | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/REMOVE_INVALID_PARA.PY)| [LEETCODE](https://leetcode.com/problems/remove-invalid-parentheses/) | 
 | CROSSWORD PUZZLE  | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/CROSSWORD_PUZZLE.PY)| [HACKERRANK](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | 
 | CRIPT ARITHMETIC | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/CRIPTARITHMETIC.PY)| [GFG](https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles-backtracking-8/#:~:text=The%20goal%20here%20is%20to,to%20more%20than%20one%20letter.) | 
+| PERMUTATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/PERMUTATION_2.PY)| [PEPCODING](https://nados.io/question/permutations-2) | 
+| PERMUTATION WORD 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/PERMUTATION_WORD_1.PY)| [PEPCODING](https://nados.io/question/permutations-words-1?zen=true) | 
+| PERMUTATION WORD 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/PERMUTATION_WORD_2.PY)| [PEPCODING](https://nados.io/question/permutations-words-2) | 
+| COMBINATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COMBINATION_2.PY)| [PEPCODING](https://nados.io/question/combinations-2?zen=true) | 
+| WORD K SELECTION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/WORD_K_SELECTION_1.PY)| [PEPCODING](https://nados.io/question/words-k-selection-1) | 
+| WORD K SELECTION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/WORD_K_SELECTION_2.PY)| [PEPCODING](https://nados.io/question/words-k-selection-2) | 
+| QUEEN COMBINATION BOX CHOOSE 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_COMBI_BOX_CHOOSE.PY)| [PEPCODING](https://nados.io/question/queens-combinations-2d-as-2d-box-chooses) | 
+| QUEEN COMBINATION BOX CHOOSE 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_COMBI_BOX_CHOOSE_2.PY)| [PEPCODING](https://nados.io/question/queens-combinations-2d-as-2d-queen-chooses?zen=true) | 
+| QUEEN PERMUTATION BOX CHOOSE 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_PERMU_BOX_CHOOSE.PY)| [PEPCODING](https://nados.io/question/queens-permutations-2d-as-2d-box-chooses) | 
+| QUEEN PERMUTATION BOX CHOOSE 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_PERMU_BOX_CHOOSE_2.PY)| [PEPCODING](https://nados.io/question/queens-permutations-2d-as-2d-box-chooses?zen=true) | 
+| QUEEN COMBINATION BOX CHOOSE 1D | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_COMBI_BOX_CHOOSE_AS_1D.PY)| [PEPCODING](https://nados.io/question/queens-combinations-2d-as-1d-queen-chooses?zen=true) | 
+| QUEEN COMBINATION WITH SAFE 1D | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_COMBI_WITH_SAFE_1D.PY)| [PEPCODING](https://nados.io/question/nqueens-combinations-2d-as-1d-queen-chooses?zen=true) | 
+| QUEEN PERMUTATOIN WITH SAFE 1D | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_PERMU_WITH_SAFE_1D.PY)| [PEPCODING](https://nados.io/question/nqueens-permutations-2d-as-1d-queen-chooses) | 
+| COIN CHANGE COMBINATION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_COMBI_1.PY)| [PEPCODING](https://nados.io/question/coin-change-combinations-1) | 
+| COIN CHANGE COMBINATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_COMBI_2.PY)| [PEPCODING](https://nados.io/question/coin-change-combinations-2) | 
+| COIN CHANGE PERMUTATION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_PERMU_1.PY)| [PEPCODING](https://nados.io/question/coin-change-permutations-1?zen=true) | 
+| COIN CHANGE PERMUTATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_PERMU_2.PY)| [PEPCODING](https://nados.io/question/coin-change-permutations-2) | 
+
+
 
