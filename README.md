@@ -400,6 +400,10 @@
 | COMBINATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COMBINATION_2.PY)| [PEPCODING](https://nados.io/question/combinations-2?zen=true) | 
 | WORD K SELECTION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/WORD_K_SELECTION_1.PY)| [PEPCODING](https://nados.io/question/words-k-selection-1) | 
 | WORD K SELECTION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/WORD_K_SELECTION_2.PY)| [PEPCODING](https://nados.io/question/words-k-selection-2) | 
+| WORD K SELECTION 3 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/WORD_K_SELECTION_3.PY)| [PEPCODING](https://nados.io/question/words-k-selection-3?zen=true) | 
+| WORD K SELECTION 4 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/WORD_K_SELECTION_4.PY)| [PEPCODING](https://nados.io/question/words-k-selection-4?zen=true) | 
+| WORD K LEN 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/K_LEN_WORD_1.PY)| [PEPCODING](https://nados.io/question/words-k-length-words-1) | 
+| WORD K LEN 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/K_LEN_WORD_2.PY)| [PEPCODING](https://nados.io/question/words-k-length-words-2) | 
 | QUEEN COMBINATION BOX CHOOSE 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_COMBI_BOX_CHOOSE.PY)| [PEPCODING](https://nados.io/question/queens-combinations-2d-as-2d-box-chooses) | 
 | QUEEN COMBINATION BOX CHOOSE 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_COMBI_BOX_CHOOSE_2.PY)| [PEPCODING](https://nados.io/question/queens-combinations-2d-as-2d-queen-chooses?zen=true) | 
 | QUEEN PERMUTATION BOX CHOOSE 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/QUEEN_PERMU_BOX_CHOOSE.PY)| [PEPCODING](https://nados.io/question/queens-permutations-2d-as-2d-box-chooses) | 
@@ -411,6 +415,11 @@
 | COIN CHANGE COMBINATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_COMBI_2.PY)| [PEPCODING](https://nados.io/question/coin-change-combinations-2) | 
 | COIN CHANGE PERMUTATION 1 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_PERMU_1.PY)| [PEPCODING](https://nados.io/question/coin-change-permutations-1?zen=true) | 
 | COIN CHANGE PERMUTATION 2 | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/COIN_CHANGE_PERMU_2.PY)| [PEPCODING](https://nados.io/question/coin-change-permutations-2) | 
+| RESTORE IP ADDRESS | [Solution](https://github.com/aditya-2703/DSA/blob/main/backtraking/RESTORE_IP.PY)| [PEPCODING](https://nados.io/question/restore-ip-addresses) | 
+
+
+
+
 
 
 
