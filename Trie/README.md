@@ -1,5 +1,9 @@
-# Trie
+<h1 align="center">MATHs</h1>
+<p align="center">
+  <img width="200" src="![image](https://user-images.githubusercontent.com/66458303/167688225-f52ae896-8d2c-49d0-a7a3-2fa5241866b3.png)">
+</p>
 
+----
 
 | Problems        | Solution                         | Platform |
 | :-------------  | :-------------                   | :-------------                   
