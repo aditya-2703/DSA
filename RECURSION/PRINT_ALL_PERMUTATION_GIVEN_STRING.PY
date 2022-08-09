@@ -26,6 +26,7 @@ def Method_1(string,l,r):
         string=swap(string,l,i)
         Method_1(string,l+1,r)
         string=swap(string,l,i)
+
 if __name__ == "__main__":
     string="ABC"
     Method_1(string,0,len(string)-1)
