@@ -1,3 +1,5 @@
+# GFG - Equal sum and xor
+# https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1
 # Given a positive integer N, Your task is to complete the function countValues which returns an integer denoting the count of all positive integers i such that
 # 0 <= i <= n and n+i = n^i where ^ denotes a XOR operation.
 
@@ -33,8 +35,20 @@ def Method_1(n):
       result+=1
   return result
 
+import math
+# METHOD -2 TAKES O(1) TIME AND O(1) SPACE COMPLEXITY
+# find longest consecutive zero's in the bits of n 
+def Method_2(n):
+  unset_bits = 0     
+  while(n):
+    if n & 1 == 0:
+      unset_bits += 1
+    n = n >> 1
+       
+  return 1 << unset_bits
 
 if __name__ == '__main__':
-  n=12
+  n=6
   print(Method_1(n))
+  print(Method_2(n))
     
