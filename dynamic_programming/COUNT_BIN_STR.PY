@@ -49,6 +49,6 @@ def get_bin_str_dp(n):
         dp1[i] = dp0[i-1]+dp1[i-1]
         dp0[i] = dp1[i-1]
     return dp1[-1]+dp0[-1]
-print(f"Ans is {get_bin_str_dp(n)} with {total_dp_moves} moves in recursion ")
+print(f"Ans is {get_bin_str_dp(n)} with {total_dp_moves} moves in dp ")
 
 
